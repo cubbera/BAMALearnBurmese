@@ -652,3 +652,14 @@ footer.site {
     .rule-table th:first-child {
       text-align: left;
     }
+
+
+.footer-credit {
+  opacity: 0.75;
+}
+
+.footer-credit a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
