@@ -8,7 +8,7 @@ $allowed = [
     '33-consonants',
     'scripts-cheatsheet',
     'suffixes-cheatsheet',
-    'stroke-order'
+    'stroke-order',
     'mac-keyboard'
 ];
 
