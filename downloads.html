@@ -35,15 +35,12 @@
 
 
 <main style="max-width:44rem;">
-
   <span class="eyebrow">Print &amp; Go</span>
-
   <h1>Downloads</h1>
-
   <p>
     Curated by BAMA Learn Burmese, mostly based on John Okell's
     <em>Burmese by Ear</em>.
-  
+
     Free materials to support your learning. Open them anytime,
     save them to your phone, or print them for your studies.
   </p>
@@ -55,25 +52,18 @@
   <!-- =========================================
        Burmese Consonants
        ========================================= -->
-
   <div class="download-row">
-
     <div>
-
       <div class="name">
         Burmese Consonants
       </div>
-
       <div class="meta">
         33 Consonants, one page
       </div>
-
       <div class="download-count">
         <span id="scripts-count">0</span> views
       </div>
-
     </div>
-
     <a
       class="dl"
       href="https://www.pinterest.com/pin/753367843886723973/"
@@ -82,32 +72,23 @@
       onclick="countView('33-consonants')">
       OPEN ↗
     </a>
-
   </div>
-
 
   <!-- =========================================
        BASIC SCRIPTS CHEATSHEET
        ========================================= -->
-
   <div class="download-row">
-
     <div>
-
       <div class="name">
         Basic Scripts Cheatsheet
       </div>
-
       <div class="meta">
         Based on Okell's work · The syllable formula, one page
       </div>
-
       <div class="download-count">
         <span id="scripts-count">0</span> views
       </div>
-
     </div>
-
     <a
       class="dl"
       href="assets/img/BAMA_Scripts_Cheatsheet_Okell_24.png"
@@ -116,32 +97,23 @@
       onclick="countView('scripts-cheatsheet')">
       OPEN ↗
     </a>
-
   </div>
-
 
   <!-- =========================================
        BASIC SUFFIXES CHEATSHEET
        ========================================= -->
-
   <div class="download-row">
-
     <div>
-
       <div class="name">
         Basic Suffixes Cheatsheet
       </div>
-
       <div class="meta">
         Based on Okell's work · Core grammatical suffixes, one page
       </div>
-
       <div class="download-count">
         <span id="suffixes-count">0</span> views
       </div>
-
     </div>
-
     <a
       class="dl"
       href="assets/img/BAMA_BasicSuffixes_Cheatsheet_Okell_v2.png"
@@ -150,32 +122,23 @@
       onclick="countView('suffixes-cheatsheet')">
       OPEN ↗
     </a>
-
   </div>
-
 
   <!-- =========================================
        BURMESE Stroke Order
        ========================================= -->
-
   <div class="download-row">
-
     <div>
-
       <div class="name">
         Burmese Script Stroke Order
       </div>
-
       <div class="meta">
         From Okell's BS8D · Stroke Order, one page
       </div>
-
       <div class="download-count">
         <span id="stroke-count">0</span> views
       </div>
-
     </div>
-
     <a
       class="dl"
       href="assets/img/BAMA_Strokeorder_Okell.png"
@@ -184,35 +147,23 @@
       onclick="countView('stroke-order')">
       OPEN ↗
     </a>
-
   </div>
-
-
-
-
 
   <!-- =========================================
        BURMESE Mac Keyboard
        ========================================= -->
-
   <div class="download-row">
-
     <div>
-
       <div class="name">
         Burmese Mac Keyboard
       </div>
-
       <div class="meta">
         From Okell's BS8D · Stroke Order, one page
       </div>
-
       <div class="download-count">
         <span id="mac-count">0</span> views
       </div>
-
     </div>
-
     <a
       class="dl"
       href="assets/img/BAMALearnBurmese_macOS_keyboard_201612.png"
@@ -221,11 +172,7 @@
       onclick="countView('mac-k')">
       OPEN ↗
     </a>
-
   </div>
-
-  
-
 </main>
 
 <footer class="site">
@@ -257,7 +204,6 @@
  */
 
 function countView(item) {
-
   fetch(
     'count.php?item=' + encodeURIComponent(item),
     {
@@ -265,11 +211,8 @@ function countView(item) {
       cache: 'no-store'
     }
   ).catch(function(error) {
-
     console.error('Counter error:', error);
-
   });
-
 }
 
 
@@ -278,7 +221,6 @@ function countView(item) {
  */
 
 function loadCount(item, elementId) {
-
   fetch(
     'counter.php?item=' + encodeURIComponent(item),
     {
@@ -286,68 +228,29 @@ function loadCount(item, elementId) {
       cache: 'no-store'
     }
   )
-
   .then(function(response) {
-
     if (!response.ok) {
       throw new Error('Counter request failed');
     }
-
     return response.json();
-
   })
-
   .then(function(data) {
-
     if (data.count !== undefined) {
-
       document.getElementById(elementId).textContent = data.count;
-
     }
-
   })
 
   .catch(function(error) {
-
     console.error('View counter error:', error);
-
   });
-
 }
 
-
-
-loadCount(
-  '33-consonants',
-  'consonants-count'
-);
-
-loadCount(
-  'scripts-cheatsheet',
-  'scripts-count'
-);
-
-loadCount(
-  'suffixes-cheatsheet',
-  'suffixes-count'
-);
-
-loadCount(
-  'stroke-order',
-  'stroke-count'
-);
-
-loadCount(
-  'mac-k',
-  'mac-count'
-);
+loadCount('33-consonants','consonants-count');
+loadCount('scripts-cheatsheet','scripts-count');
+loadCount('suffixes-cheatsheet','suffixes-count');
+loadCount('stroke-order','stroke-count');
+loadCount('mac-k','mac-count');
 
 </script>
-
-<!-- Pinterest Embed Script — include ONCE --> <script async defer src="https://assets.pinterest.com/js/pinit.js"> </script>
-
-
-
-
 </body>
 </html>
