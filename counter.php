@@ -5,6 +5,8 @@ header('Content-Type: application/json');
 $file = __DIR__ . '/data/download-counts.json';
 
 $allowed = [
+    'bbe-pdf',
+    'bbe-mp3',
     '33-consonants',
     'scripts-cheatsheet',
     'suffixes-cheatsheet',

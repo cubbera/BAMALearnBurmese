@@ -1,4 +1,4 @@
-BAMA LEARN BURMESE — SITE FILES (v3)
+adBAMA LEARN BURMESE — SITE FILES (v3)
 ======================================
 
 Plain HTML/CSS/JS site — no build step, no Wix. Upload the whole

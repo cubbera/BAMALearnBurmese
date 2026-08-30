@@ -36,8 +36,8 @@
 
       <h2>Courses &amp; audio</h2>
       <ul class="tight">
-        <li><a href="assets/pdf/burmese-by-ear-okell.pdf" target="_blank" rel="noopener">Burmese by Ear PDF</a> <span class="d">— John Okell</span></li>
-        <li><a href="https://soundcloud.com/soas-university-of-london/sets/burmese-by-ear-by-john-okell" target="_blank" rel="noopener">Burmese by Ear Audio</a> <span class="d">— John Okell</span></li>
+        <li><a href="assets/pdf/burmese-by-ear-okell.pdf" target="_blank" rel="noopener" onclick="countView('bbe-pdf')">Burmese by Ear PDF</a> <span class="d">— John Okell</li> <!--(<span id="bbe-pdf-count">0</span> views)</span>-->
+        <li><a href="https://soundcloud.com/soas-university-of-london/sets/burmese-by-ear-by-john-okell" target="_blank" rel="noopener" onclick="countView('bbe-mp3')">Burmese by Ear Audio</a> <span class="d">— John Okell</span></li>
         <li><a href="http://www.seasite.niu.edu/Burmese/language.htm" target="_blank" rel="noopener">SEAsite Burmese</a> <span class="d">— free structured lessons</span></li>
         <li><a href="https://www.asiapearltravels.com/language/intro_burmese.php" target="_blank" rel="noopener">Asiapearltravels</a> <span class="d">— free intro course</span></li>
         <li><a href="http://hurnell.com" target="_blank" rel="noopener">hurnell.com</a> <span class="d">— script animations</span></li>
@@ -96,6 +96,61 @@
 
   </div>
 </footer>
+
+
+<script>
+
+/*
+ * Count a view when someone clicks OPEN.
+ * The actual file opens normally in a new tab.
+ */
+
+function countView(item) {
+  fetch(
+    'count.php?item=' + encodeURIComponent(item),
+    {
+      method: 'GET',
+      cache: 'no-store'
+    }
+  ).catch(function(error) {
+    console.error('Counter error:', error);
+  });
+}
+
+
+/*
+ * Load current counts when page opens.
+ */
+
+function loadCount(item, elementId) {
+  fetch(
+    'counter.php?item=' + encodeURIComponent(item),
+    {
+      method: 'GET',
+      cache: 'no-store'
+    }
+  )
+  .then(function(response) {
+    if (!response.ok) {
+      throw new Error('Counter request failed');
+    }
+    return response.json();
+  })
+  .then(function(data) {
+    if (data.count !== undefined) {
+      document.getElementById(elementId).textContent = data.count;
+    }
+  })
+
+  .catch(function(error) {
+    console.error('View counter error:', error);
+  });
+}
+
+loadCount('bbe-pdf','bbe-pdf-count');
+loadCount('bbe-mp3','bbe-mp3-count');
+
+</script>
 
 </body>
 </html>

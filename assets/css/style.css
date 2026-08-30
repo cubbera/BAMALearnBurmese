@@ -194,7 +194,7 @@ ul.tight .d { color: var(--muted); font-size: 0.8rem; }
 .shelf { display: flex; flex-direction: column; gap: 0.8rem; margin: 1.4rem 0; }
 
 /* ---------- downloads ---------- */
-.download-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid var(--line); }
+.download-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; }
 .download-row:last-child { border-bottom: none; }
 .download-row .meta { font-size: 0.82rem; color: var(--muted); }
 .download-row .name { font-weight: 600; }
