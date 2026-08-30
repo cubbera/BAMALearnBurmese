@@ -1,0 +1,4021 @@
+[
+ {
+  "n": 1,
+  "letter": "က",
+  "name": "ka",
+  "part": "Foundations",
+  "theme": "Statements & tag questions",
+  "goal": "Make a simple statement about something, and comment on it the way Burmese speakers actually open small talk — through the weather.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "H",
+     "မင်္ဂလာပါ။",
+     "Mingalar-ba.",
+     "Hello."
+    ],
+    [
+     "Y",
+     "မင်္ဂလာပါ။ ပူတယ်နော်။",
+     "Mingalar-ba. Pu-deh-naw.",
+     "Hello. Hot today, isn't it."
+    ],
+    [
+     "H",
+     "ဟုတ်ကဲ့၊ ပူပါတယ်။",
+     "Houq-keh, pu-ba-deh.",
+     "Yeah, it is."
+    ],
+    [
+     "Y",
+     "ရပါတယ်။",
+     "Ya-ba-deh.",
+     "That's alright."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "မင်္ဂလာပါ",
+    "mingalar-ba",
+    "hello (formal / to foreigners / service settings)"
+   ],
+   [
+    "ဘယ်သွားမလဲ",
+    "beh thwa-mha-lé",
+    "\"where are you headed?\" — real street greeting"
+   ],
+   [
+    "ထမင်းစားပြီးပြီလား",
+    "hta-min sa-pi-bi-la",
+    "\"have you eaten yet?\" — real street greeting"
+   ],
+   [
+    "ပူတယ်",
+    "pu-deh",
+    "to be hot / it's hot"
+   ],
+   [
+    "အေးတယ်",
+    "é-deh",
+    "to be cold / it's cold"
+   ],
+   [
+    "ကောင်းတယ်",
+    "kaun-deh",
+    "to be good / it's good"
+   ],
+   [
+    "ရတယ်",
+    "ya-deh",
+    "to be all right / it's fine"
+   ],
+   [
+    "ဟုတ်ကဲ့",
+    "houq-keh",
+    "that's right / yes (agreeing)"
+   ],
+   [
+    "ဟုတ်တယ်",
+    "houq-teh",
+    "it's true / correct"
+   ],
+   [
+    "ကြီးတယ်",
+    "cí-deh",
+    "to be big"
+   ],
+   [
+    "ငယ်တယ်",
+    "ngeh-deh",
+    "to be small"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-deh — the statement ending",
+    "explain": "Every plain Burmese statement ends in -deh (or -teh after a syllable ending in -q). It's the neutral, all-purpose \"is/does\" ending — there's no separate word for \"to be.\"",
+    "examples": [
+     [
+      "ပူတယ်",
+      "Pu-deh.",
+      "It's hot."
+     ],
+     [
+      "ကောင်းတယ်",
+      "Kaun-deh.",
+      "It's good."
+     ]
+    ]
+   },
+   {
+    "title": "-naw — inviting agreement",
+    "explain": "Add -naw to the end of a -deh statement to turn it into a tag question — like English \"...isn't it?\" Commenting on the weather this way is one of the most common ways to open a conversation in Burmese, the same way English speakers open with \"nice day, huh?\"",
+    "examples": [
+     [
+      "ပူတယ်နော်။",
+      "Pu-deh-naw.",
+      "Hot, isn't it."
+     ],
+     [
+      "ကောင်းတယ်နော်။",
+      "Kaun-deh-naw.",
+      "Good, isn't it."
+     ]
+    ]
+   }
+  ],
+  "write": "The anchor loop of the whole script. Start at the top, curve down and left, close the loop back where you started — one continuous stroke.",
+  "culture": "Notice the receptionist opens with Mingalar-ba — that's genuine, but it's not what two Burmese friends say passing each other on the street. Mingalar-ba is a 20th-century coinage, popularized through schools and radio, and today it lives mainly in formal, service, or foreigner-facing settings — exactly this one. On the street, people mostly skip \"hello\" entirely and ask a real question instead: Beh thwa-mha-lé? (\"Where are you headed?\") or Hta-min sa-pi-bi-la? (\"Have you eaten yet?\") — the same way \"how's it going\" in English isn't really asking about your wellbeing. Nobody expects a detailed answer to either; \"just around\" or \"not yet\" closes the loop fine."
+ },
+ {
+  "n": 2,
+  "letter": "ခ",
+  "name": "hka",
+  "part": "Foundations",
+  "theme": "Answering politely",
+  "goal": "Pay someone a compliment and receive one — the polite way, with -ba-/-pa-.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "H",
+     "ရေအေးသောက်ပါ။",
+     "Yé-é thauq-pa.",
+     "Have some cold water."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ],
+    [
+     "H",
+     "ဒီဟိုတယ်ကောင်းပါတယ်နော်။",
+     "Di ho-teh kaun-ba-deh-naw.",
+     "This hotel is nice, isn't it."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သိပ်ကောင်းပါတယ်။",
+     "Houq-keh, théiq kaun-ba-deh.",
+     "Yeah, it's really nice."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ကျေးဇူးတင်ပါတယ်",
+    "cé-zú-tin-ba-deh",
+    "thank you"
+   ],
+   [
+    "ကျေးဇူးပဲ",
+    "cé-zú-béh",
+    "thanks (casual)"
+   ],
+   [
+    "သိပ်",
+    "théiq",
+    "very / really"
+   ],
+   [
+    "နည်းနည်း",
+    "né-né",
+    "a little"
+   ],
+   [
+    "ဟုတ်ပါတယ်",
+    "houq-pa-deh",
+    "yes, that's correct (polite)"
+   ],
+   [
+    "စားတယ်",
+    "sa-deh",
+    "to eat"
+   ],
+   [
+    "သောက်တယ်",
+    "thauq-teh",
+    "to drink"
+   ],
+   [
+    "ဟုတ်ကဲ့ခင်ဗျား",
+    "houq-keh khin-bya",
+    "yes sir/ma'am (very polite)"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-ba- / -pa- — the politeness infix",
+    "explain": "Slot -ba- (or -pa- after a syllable ending in -q) between the verb and -deh to make a statement polite. Pu-deh → Pu-ba-deh. This is the single most useful upgrade you can make to any sentence.",
+    "examples": [
+     [
+      "ပူပါတယ်",
+      "Pu-ba-deh.",
+      "It's hot. (polite)"
+     ],
+     [
+      "ကောင်းပါတယ်",
+      "Kaun-ba-deh.",
+      "It's good. (polite)"
+     ]
+    ]
+   },
+   {
+    "title": "Théiq — \"very\"",
+    "explain": "Place théiq directly before the verb to intensify it: théiq + kaun-ba-deh = \"it's really good.\" Word order is reversed from English — the intensifier still comes before the verb, since the verb is always last.",
+    "examples": [
+     [
+      "သိပ်ကောင်းပါတယ်",
+      "Théiq kaun-ba-deh.",
+      "It's really good."
+     ]
+    ]
+   }
+  ],
+  "write": "Same loop as က, with one extra hook curling off the top right. Draw က first, then add the hook without lifting your rhythm.",
+  "culture": "Being offered a drink the moment you arrive somewhere isn't a special gesture — it's the default. Turning it down flat can read as more distant than intended. If you don't want anything, a soft ma-thauq-jin-ba-bú (Unit 3) plus a reason lands better than silence or a bare no, and it's completely normal to accept a small amount just to be polite even if you don't finish it."
+ },
+ {
+  "n": 3,
+  "letter": "ဂ",
+  "name": "ga",
+  "part": "Foundations",
+  "theme": "Saying no",
+  "goal": "Politely disagree about something everyday — like the weather, again.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "H",
+     "ကော်ဖီသောက်မလား။",
+     "Kaw-p'i thauq-mala.",
+     "Would you like coffee?"
+    ],
+    [
+     "Y",
+     "မသောက်ချင်ပါဘူး၊ ကျေးဇူးပဲ။",
+     "Ma-thauq-jin-ba-bú, cé-zú-béh.",
+     "I don't want any, thanks."
+    ],
+    [
+     "H",
+     "လက်ဖက်ရည်ရော။",
+     "Leq-p'eq-yé yaw.",
+     "How about tea?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သောက်ချင်ပါတယ်။",
+     "Houq-keh, thauq-jin-ba-deh.",
+     "Yes, I'd like that."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ကြိုက်တယ်",
+    "caiq-teh",
+    "to like"
+   ],
+   [
+    "မကြိုက်ဘူး",
+    "ma-caiq-pa-bú",
+    "don't like (polite negative)"
+   ],
+   [
+    "လိုချင်တယ်",
+    "lo-jin-deh",
+    "to want (something)"
+   ],
+   [
+    "မလိုချင်ဘူး",
+    "ma-lo-jin-ba-bú",
+    "don't want"
+   ],
+   [
+    "နားလည်တယ်",
+    "na-leh-deh",
+    "to understand"
+   ],
+   [
+    "နားမလည်ဘူး",
+    "na-ma-leh-ba-bú",
+    "don't understand"
+   ],
+   [
+    "ဟုတ်ဘူး",
+    "ma-houq-pa-bú",
+    "that's not right / no"
+   ],
+   [
+    "ဘူး",
+    "-bú",
+    "(negative sentence ending)"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "ma-...-bú — the negative sandwich",
+    "explain": "Burmese negates by sandwiching the verb: ma- goes on the front, -bú goes on the end, and the politeness infix -ba-/-pa- sits in between. Pu-deh becomes Ma-pu-ba-bú — never just \"pu-deh + not.\"",
+    "examples": [
+     [
+      "မပူပါဘူး",
+      "Ma-pu-ba-bú.",
+      "It's not hot."
+     ],
+     [
+      "ကြိုက်ပါဘူး",
+      "Ma-caiq-pa-bú.",
+      "I don't like it."
+     ]
+    ]
+   },
+   {
+    "title": "Where ma- attaches on two-part verbs",
+    "explain": "Some verbs are really two syllables glued together (like ná-leh-deh, \"to understand\"). The negative ma- goes before the second syllable, not the first: ná-ma-leh-ba-bú, not Ma-ná-leh-ba-bú.",
+    "examples": [
+     [
+      "နားမလည်ဘူး",
+      "Ná-ma-leh-ba-bú.",
+      "I don't understand."
+     ]
+    ]
+   }
+  ],
+  "write": "A closed loop with a small tail flicked off the base. Round the loop fully before you let the tail trail out to the right.",
+  "culture": "A flat \"no\" is rarer in Burmese than the dictionary form suggests. Ma-...-bú is grammatically correct and genuinely used, but a lot of everyday refusal happens more softly — a reason instead of a refusal (\"I'm full\" rather than \"I don't want it\"), a hesitant laugh, or simply not answering directly. If someone seems to be dodging a clear yes/no from you, that hesitation often is the no."
+ },
+ {
+  "n": 4,
+  "letter": "ဃ",
+  "name": "ga (gha)",
+  "part": "Foundations",
+  "theme": "Asking a plain question",
+  "goal": "Point at something and genuinely ask about it — without leading the listener toward an answer.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "H",
+     "ထမင်းစားပြီးပြီလား။",
+     "Hta-min sa-pí-bi-la.",
+     "Have you eaten yet?"
+    ],
+    [
+     "Y",
+     "မစားရသေးပါဘူး။",
+     "Ma-sa-ya-dhé-ba-bú.",
+     "Not yet."
+    ],
+    [
+     "H",
+     "ဒါဆို ဒီဟာစားသလား။",
+     "Da-hso di-ha sa-tha-la.",
+     "Then — do you eat this?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ စားပါတယ်။",
+     "Houq-keh, sa-ba-deh.",
+     "Yes, I do."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "-သလား",
+    "-tha-la",
+    "(neutral question ending)"
+   ],
+   [
+    "-လား",
+    "-la",
+    "(neutral question ending, short form)"
+   ],
+   [
+    "စားသလား",
+    "sa-tha-la",
+    "do you eat (it)?"
+   ],
+   [
+    "ကြိုက်သလား",
+    "caiq-tha-la",
+    "do you like it?"
+   ],
+   [
+    "ရှိသလား",
+    "shi-tha-la",
+    "is there.../do you have...?"
+   ],
+   [
+    "ဟင့်အင်း",
+    "hín-ín",
+    "no (casual)"
+   ],
+   [
+    "ဟုတ်ကဲ့",
+    "houq-keh",
+    "yes"
+   ],
+   [
+    "ဘာ",
+    "ba",
+    "what"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-tha-la / -dha-la — a genuine question",
+    "explain": "Unlike -naw (Unit 1), which nudges the listener to agree, -tha-la (voiced to -dha-la after most syllables) is neutral — a real yes/no question with no expected answer either way. It's the natural way to ask about something you're actually unsure of, like whether a food is familiar to someone.",
+    "examples": [
+     [
+      "ဒါစားသလား။",
+      "Da sa-tha-la.",
+      "Do you eat this?"
+     ],
+     [
+      "ကြိုက်သလား။",
+      "Caiq-tha-la.",
+      "Do you like it?"
+     ]
+    ]
+   }
+  ],
+  "write": "Two loops stacked — draw the lower loop first (like ဂ), then add the second loop directly above it.",
+  "culture": "Pointing at food and asking \"do you eat this?\" is a genuinely common, welcome question from a visitor — it signals curiosity, not suspicion. If you're offered a taste of something unfamiliar, trying at least a small amount is read as warmth on your part, even if you don't finish it."
+ },
+ {
+  "n": 5,
+  "letter": "င",
+  "name": "nga",
+  "part": "Foundations",
+  "theme": "Numbers 1–10",
+  "goal": "Count from one to ten, and use a classifier to ask how many people are in a group.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "H",
+     "မနက်စာဘယ်နှစ်ယောက်စားမလဲ။",
+     "Ma-net-sa beh-hna-yauq sa-ma-lé.",
+     "How many people for breakfast?"
+    ],
+    [
+     "Y",
+     "နှစ်ယောက်ပါ။",
+     "Hna-yauq ba.",
+     "Two people."
+    ],
+    [
+     "H",
+     "ဟုတ်ကဲ့၊ ခဏလောက်စောင့်ပါ။",
+     "Houq-keh, k'a-na-lauq saun-pa.",
+     "Okay, please wait a moment."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "တစ်",
+    "tiq",
+    "one"
+   ],
+   [
+    "နှစ်",
+    "hniq",
+    "two"
+   ],
+   [
+    "သုံး",
+    "thoun",
+    "three"
+   ],
+   [
+    "လေး",
+    "lé",
+    "four"
+   ],
+   [
+    "ငါး",
+    "ngá",
+    "five"
+   ],
+   [
+    "ခြောက်",
+    "c'auq",
+    "six"
+   ],
+   [
+    "ခုနစ်",
+    "k'un-hniq",
+    "seven"
+   ],
+   [
+    "ရှစ်",
+    "shiq",
+    "eight"
+   ],
+   [
+    "ကိုး",
+    "kó",
+    "nine"
+   ],
+   [
+    "တစ်ဆယ်",
+    "ta-s'eh",
+    "ten"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Counting needs a classifier",
+    "explain": "Burmese never counts a noun with a bare number — you always add a classifier (a counting word) after it. -yauq counts people: hna-yauq = \"two (people).\"",
+    "examples": [
+     [
+      "နှစ်ယောက်",
+      "hna-yauq",
+      "two people"
+     ],
+     [
+      "သုံးယောက်",
+      "thoun-yauq",
+      "three people"
+     ]
+    ]
+   },
+   {
+    "title": "tiq, hniq, k'un-hniq weaken before a classifier",
+    "explain": "\"One,\" \"two,\" and \"seven\" shorten their vowel to a. before most classifiers: tiq-yauq is never said — it's ta-yauq. Same for hniq → hna-, and k'un-hniq → k'un-na-.",
+    "examples": [
+     [
+      "တစ်ယောက်",
+      "ta-yauq",
+      "one person (not tiq-yauq)"
+     ],
+     [
+      "နှစ်ယောက်",
+      "hna-yauq",
+      "two people (not hniq-yauq)"
+     ]
+    ]
+   }
+  ],
+  "write": "A single hooked curve — no loop to close. One relaxed stroke, curling from top to bottom-left.",
+  "culture": "Burmese hosts routinely over-cater — more food than the headcount needs is a quiet sign of generosity, not poor planning. If you're asked how many people are coming and you're unsure, rounding up is safer than rounding down."
+ },
+ {
+  "n": 6,
+  "letter": "စ",
+  "name": "sa (ca)",
+  "part": "Foundations",
+  "theme": "Numbers & prices",
+  "goal": "Ask the price of something and understand the answer.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဒါဘယ်လောက်လဲ။",
+     "Da beh-lauq-lé.",
+     "How much is this?"
+    ],
+    [
+     "H",
+     "ငါးရာကျပ်ပါ။",
+     "Ngá-ya caq ba.",
+     "Five hundred kyats."
+    ],
+    [
+     "Y",
+     "သိပ်ဈေးကြီးတယ်နော်။",
+     "Théiq zé-cí-deh-naw.",
+     "That's quite expensive, isn't it."
+    ],
+    [
+     "H",
+     "ဈေးမကြီးပါဘူး၊ ဈေးချိုပါတယ်။",
+     "Zé-ma-cí-ba-bú, zé-cho-ba-deh.",
+     "It's not expensive, it's cheap."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဆယ့်တစ်",
+    "s'eh-tiq",
+    "eleven"
+   ],
+   [
+    "နှစ်ဆယ်",
+    "hna-s'eh",
+    "twenty"
+   ],
+   [
+    "တစ်ရာ",
+    "ta-ya",
+    "one hundred"
+   ],
+   [
+    "ကျပ်",
+    "caq",
+    "kyat (currency)"
+   ],
+   [
+    "ဈေးကြီးတယ်",
+    "zé-cí-deh",
+    "to be expensive"
+   ],
+   [
+    "ဈေးချိုတယ်",
+    "zé-cho-deh",
+    "to be cheap"
+   ],
+   [
+    "ဘယ်လောက်လဲ",
+    "beh-lauq-lé",
+    "how much is it?"
+   ],
+   [
+    "ဒါ",
+    "da",
+    "this / this one"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "beh-lauq-lé — asking a price or amount",
+    "explain": "Beh-lauq literally means \"how much\" and takes the -lé question ending you'll formally meet in Unit 7. It's the single most useful phrase for shopping, taxis, and markets.",
+    "examples": [
+     [
+      "ဒါဘယ်လောက်လဲ။",
+      "Da beh-lauq-lé?",
+      "How much is this?"
+     ]
+    ]
+   },
+   {
+    "title": "The Voicing Rule",
+    "explain": "When two words join, the first consonant of the second word often \"voices\": s'eh (\"ten\") becomes -zeh in compounds like hna-s'eh (twenty, no change — after a˘) but thoun-zeh (thirty, s' voices to z). It doesn't happen after a syllable ending in -q.",
+    "examples": [
+     [
+      "သုံးဆယ်",
+      "thoun-zeh",
+      "thirty"
+     ],
+     [
+      "ရှစ်ဆယ်",
+      "shiq-s'eh",
+      "eighty (no voicing — ends in -q)"
+     ]
+    ]
+   }
+  ],
+  "write": "Begins like a backward c, then flicks upward at the end. Practice the upward flick on its own before joining it to the curve.",
+  "culture": "Bargaining is expected at a street market and basically absent at a fixed-price shop or supermarket — reading which kind of place you're in matters more than the specific words. A good-natured, smiling tone throughout the exchange is doing as much work as the numbers; treating it as a fight rather than a friendly back-and-forth is the actual foreign-tourist tell."
+ },
+ {
+  "n": 7,
+  "letter": "ဆ",
+  "name": "hsa",
+  "part": "Foundations",
+  "theme": "\"What\" and question words",
+  "goal": "Ask an open question using a question word instead of yes/no.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဒါဘာလဲ။",
+     "Da ba-lé.",
+     "What is this?"
+    ],
+    [
+     "H",
+     "ဒါထမင်းပါ။",
+     "Da hta-min ba.",
+     "This is rice."
+    ],
+    [
+     "Y",
+     "ဟိုဟာရော ဘာလဲ။",
+     "Ho-ha yaw ba-lé.",
+     "And what about that one?"
+    ],
+    [
+     "H",
+     "ဟိုဟာက ဟင်းချိုပါ။",
+     "Ho-ha-ga hin-cho ba.",
+     "That's soup."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဘာ",
+    "ba",
+    "what"
+   ],
+   [
+    "ဘယ်",
+    "beh",
+    "which / where (base)"
+   ],
+   [
+    "ဘယ်သူ",
+    "beh-thu",
+    "who"
+   ],
+   [
+    "ဘယ်တော့",
+    "beh-dawh",
+    "when"
+   ],
+   [
+    "ဘာဖြစ်လဲ",
+    "ba-p'yiq-lé",
+    "what happened? / what's wrong?"
+   ],
+   [
+    "ဘယ်လို",
+    "beh-lo",
+    "how"
+   ],
+   [
+    "-လဲ",
+    "-lé",
+    "(question-word question ending)"
+   ],
+   [
+    "အကြောင်း",
+    "a-caun",
+    "reason / about"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-lé — closing a question that already has a question word",
+    "explain": "When your question already contains ba (\"what\"), beh-thu (\"who\"), or another question word, you close the sentence with -lé, not -tha-la. The two question endings are never mixed.",
+    "examples": [
+     [
+      "ဒါဘာလဲ။",
+      "Da ba-lé?",
+      "What is this?"
+     ],
+     [
+      "ဘယ်သူလဲ။",
+      "Beh-thu-lé?",
+      "Who is it?"
+     ]
+    ]
+   },
+   {
+    "title": "Question words stay in place",
+    "explain": "Unlike English, Burmese doesn't move the question word to the front. Ba (\"what\") sits exactly where the answer word would go: Da ba-lé, literally \"this what is?\"",
+    "examples": [
+     [
+      "ဒါဘာလဲ",
+      "Da ba-lé?",
+      "This — what — is? (What is this?)"
+     ]
+    ]
+   }
+  ],
+  "write": "A loop with a small tail at the base. Draw the loop first, then anchor the tail underneath — like ဂ with an added foot.",
+  "culture": "Asking what a dish is, and where it's from, is genuinely appreciated rather than seen as ignorant — Burmese cuisine varies a lot by region, and locals are often happy to explain. Complimenting a specific dish by name lands better than a generic \"it's good.\""
+ },
+ {
+  "n": 8,
+  "letter": "ဇ",
+  "name": "za (ja)",
+  "part": "Foundations",
+  "theme": "Wanting & asking politely",
+  "goal": "Say what you want, and turn any verb into a polite request.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဘာလိုချင်သလဲ။",
+     "Ba lo-jin-dha-lé.",
+     "What would you like?"
+    ],
+    [
+     "H",
+     "ရေလိုချင်ပါတယ်။",
+     "Yé lo-jin-ba-deh.",
+     "I'd like water."
+    ],
+    [
+     "Y",
+     "ရေပေးပါ။",
+     "Yé pé-ba.",
+     "Water, please."
+    ],
+    [
+     "H",
+     "ဟုတ်ကဲ့၊ ရပါတယ်။",
+     "Houq-keh, ya-ba-deh.",
+     "Sure, no problem."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "လိုချင်တယ်",
+    "lo-jin-deh",
+    "to want (something)"
+   ],
+   [
+    "ချင်တယ်",
+    "-jin-deh",
+    "(suffix) \"want to\""
+   ],
+   [
+    "ပေးပါ",
+    "pé-ba",
+    "please give (me)"
+   ],
+   [
+    "ရေ",
+    "yé",
+    "water"
+   ],
+   [
+    "ထမင်း",
+    "hta-min",
+    "rice"
+   ],
+   [
+    "ရတယ်",
+    "ya-deh",
+    "that's fine / no problem"
+   ],
+   [
+    "ခဏလောက်",
+    "k'a-na-lauq",
+    "just a moment"
+   ],
+   [
+    "ကျေးဇူးပြု၍",
+    "cé-zú-pyú-ywé",
+    "please (formal)"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-jin-deh — \"want to\"",
+    "explain": "Attach -jin-deh directly to a verb to mean \"want to [verb].\" Sa-jin-deh = \"want to eat.\" It behaves exactly like any other -deh verb — it takes -ba-, -naw, -tha-la, and ma-...-bú normally.",
+    "examples": [
+     [
+      "စားချင်တယ်",
+      "Sa-jin-deh.",
+      "I want to eat."
+     ],
+     [
+      "မစားချင်ဘူး",
+      "Ma-sa-jin-ba-bú.",
+      "I don't want to eat."
+     ]
+    ]
+   },
+   {
+    "title": "pé-ba — the all-purpose polite request",
+    "explain": "Adding pé-ba (\"give me,\" softened) after a verb turns it into a request: \"please [verb] for me.\" You'll use this constantly — ordering food, asking for help, asking for the bill.",
+    "examples": [
+     [
+      "ရေပေးပါ။",
+      "Yé pé-ba.",
+      "Water, please."
+     ],
+     [
+      "ကူညီပေးပါ။",
+      "Ku-nyi pé-ba.",
+      "Please help me."
+     ]
+    ]
+   }
+  ],
+  "write": "Echoes the shape of စ with a longer tail underneath. Write စ first, then extend the tail further down.",
+  "culture": "You'll often be offered more of something right after you finish it, sometimes more than once, even after you've said you're full — it's closer to a ritual than a real question. A polite, firm ma-lo-ba-bú (\"I don't need it\") once or twice is normal and not rude; the offer isn't a test."
+ },
+ {
+  "n": 9,
+  "letter": "ဈ",
+  "name": "za (jha)",
+  "part": "First Needs",
+  "theme": "When you don't understand",
+  "goal": "Say you don't understand, and ask someone to repeat or slow down.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "H",
+     "(မြန်မြန်ပြောသံ)",
+     "(fast, natural-speed Burmese)",
+     ""
+    ],
+    [
+     "Y",
+     "ဆောရီး၊ နားမလည်ပါဘူး။",
+     "Sáw-rí, ná-ma-leh-ba-bú.",
+     "Sorry, I don't understand."
+    ],
+    [
+     "Y",
+     "ပြန်ပြောပေးပါ။",
+     "P'yan-pyaw-pé-ba.",
+     "Please say that again."
+    ],
+    [
+     "H",
+     "နှေးနှေးပြောပေးပါ့မယ်။",
+     "Hné-hné pyaw-pé-ba-meh.",
+     "I'll speak slowly."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဆောရီး",
+    "sáw-rí",
+    "sorry (English loanword)"
+   ],
+   [
+    "နားမလည်ဘူး",
+    "ná-ma-leh-ba-bú",
+    "I don't understand"
+   ],
+   [
+    "ပြန်ပြောပေးပါ",
+    "p'yan-pyaw-pé-ba",
+    "please say it again"
+   ],
+   [
+    "နှေးနှေးပြောပေးပါ",
+    "hné-hné pyaw-pé-ba",
+    "please speak slowly"
+   ],
+   [
+    "မြန်မာလို",
+    "myan-ma-lo",
+    "in Burmese"
+   ],
+   [
+    "အင်္ဂလိပ်လို",
+    "in-ga-leiq-lo",
+    "in English"
+   ],
+   [
+    "ဘယ်လိုပြောလဲ",
+    "beh-lo pyaw-lé",
+    "how do you say...?"
+   ],
+   [
+    "နားလည်ပါတယ်",
+    "ná-leh-ba-deh",
+    "I understand"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Loanwords slot in like native words",
+    "explain": "Sáw-rí (\"sorry\") is a straight loan from English, but it takes Burmese grammar exactly like any native word — you can say Sáw-rí-naw or ask Sáw-rí-tha-la, though the plain form alone is what you'll use most.",
+    "examples": [
+     [
+      "ဆောရီးနော်",
+      "Sáw-rí-naw.",
+      "Sorry (softened)."
+     ]
+    ]
+   },
+   {
+    "title": "Building requests with pé-ba",
+    "explain": "P'yan-pyaw-pé-ba (\"say again, please\") and hné-hné pyaw-pé-ba (\"speak slowly, please\") both use the pé-ba pattern from Unit 8 — this is why that pattern is worth over-learning.",
+    "examples": [
+     [
+      "ပြန်ပြောပေးပါ။",
+      "P'yan-pyaw-pé-ba.",
+      "Please say that again."
+     ],
+     [
+      "နှေးနှေးပြောပေးပါ။",
+      "Hné-hné pyaw-pé-ba.",
+      "Please speak slowly."
+     ]
+    ]
+   }
+  ],
+  "write": "A less common letter today, mostly kept in older spellings. Recognize its shape — a loop with a low, extended tail — more than you'll write it.",
+  "culture": "Struggling with fast, natural Burmese and asking someone to slow down is completely normal, not embarrassing — most people react with warmth or amusement, not impatience. A visitor making a genuine effort, mistakes included, is generally received far better than one who doesn't try at all."
+ },
+ {
+  "n": 10,
+  "letter": "ည",
+  "name": "nya",
+  "part": "First Needs",
+  "theme": "Getting someone's attention",
+  "goal": "Politely get a stranger's attention and understand their reply.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ကို အောင် ပါ။ ကူညီပေးရမလား။",
+     "Ko Aun ba. Ku-nyi-pé-ya-ma-la.",
+     "I'm Ko Aung. Should I help you?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ကျေးဇူးတင်ပါတယ်။",
+     "Houq-keh, cé-zú-tin-ba-deh.",
+     "Yes please, thank you."
+    ],
+    [
+     "K",
+     "ဒီဟာဘယ်လောက်လဲလို့ မေးနေတာလား။",
+     "Di-ha beh-lauq-lé-lo mé-né-da-la.",
+     "Were you asking how much this is?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့။ ဒီဟာဘယ်လောက်လဲ။",
+     "Houq-keh. Di-ha beh-lauq-lé.",
+     "Yes. How much is this?"
+    ],
+    [
+     "K",
+     "ငါးရာကျပ်တဲ့။",
+     "Ngá-ya caq-teh.",
+     "She says five hundred kyats."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးပဲ၊ ကို အောင်။",
+     "Cé-zú-béh, Ko Aun.",
+     "Thanks, Ko Aung."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "အမ",
+    "a-ma",
+    "excuse me (to an older woman / \"auntie\")"
+   ],
+   [
+    "ကို",
+    "a-ko",
+    "excuse me (to a man about your age)"
+   ],
+   [
+    "ရှင်",
+    "shin",
+    "yes? (used by/to women)"
+   ],
+   [
+    "ဗျာ",
+    "bya",
+    "yes? (used by men)"
+   ],
+   [
+    "ဟုတ်ကဲ့",
+    "houq-keh",
+    "yes? / I'm listening"
+   ],
+   [
+    "ဘာလဲ",
+    "ba-lé",
+    "what is it?"
+   ],
+   [
+    "ဒီဟာ",
+    "di-ha",
+    "this (thing) here"
+   ],
+   [
+    "ဟိုဟာ",
+    "ho-ha",
+    "that (thing) over there"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Getting attention with kin terms",
+    "explain": "Burmese doesn't have a neutral word for \"excuse me\" the way English does — instead you address a stranger with a kinship term that fits their approximate age and your gender relative to them: a-ma (\"auntie\") for an older woman, a-ko (\"older brother\") for a man near your age.",
+    "examples": [
+     [
+      "အမ။",
+      "A-ma!",
+      "Excuse me! (to an older woman)"
+     ],
+     [
+      "အကို။",
+      "A-ko!",
+      "Excuse me! (to a man)"
+     ]
+    ]
+   },
+   {
+    "title": "Gendered response particles",
+    "explain": "Shin and bya both mean roughly \"yes?\" as a reply to being addressed — shin is used by and to women, bya by and to men. You'll hear both constantly in shops and cafés.",
+    "examples": [
+     [
+      "ရှင်။",
+      "Shin?",
+      "Yes? (woman)"
+     ],
+     [
+      "ဗျာ။",
+      "Bya?",
+      "Yes? (man)"
+     ]
+    ]
+   }
+  ],
+  "write": "Sits low with a long curved tail beneath the line — give it plenty of room below the baseline before you start the next letter.",
+  "culture": "Two things worth noticing here. First, addressing a stranger by a kinship term (a-ma for an older woman, a-ko for a man near your age — Unit 10's vocabulary) rather than a neutral \"excuse me\" is the actual norm, not an exception. Second, when you need to slip past someone in a crowded space, a slightly lowered head or shoulders while saying kwin-pyu-ba (\"allow me\") is a common physical gesture of respect, especially near elders or monks — making yourself briefly \"smaller\" as you pass is doing as much of the politeness as the words are."
+ },
+ {
+  "n": 11,
+  "letter": "ဋ",
+  "name": "ta",
+  "part": "First Needs",
+  "theme": "Ordering at a café",
+  "goal": "Order food and drink at a café or restaurant.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ဒီအနီးမှာကော်ဖီဆိုင်ရှိတယ်။ သွားမလား။",
+     "Di a-ni-hma kaw-p'i-s'ain shi-deh. Thwa-mala.",
+     "There's a café nearby. Shall we go?"
+    ],
+    [
+     "Y",
+     "သွားရအောင်။",
+     "Thwa-ya-aun.",
+     "Let's go."
+    ],
+    [
+     "K",
+     "မီနူးကြည့်လို့ရမလား။",
+     "Mi-nú cí-lo ya-ma-la.",
+     "May we see the menu?"
+    ],
+    [
+     "H",
+     "ရပါတယ်။",
+     "Ya-ba-deh.",
+     "Of course."
+    ],
+    [
+     "Y",
+     "ဟင်းချိုတစ်ခွက်ပေးပါ။",
+     "Hin-cho ta-k'weq pé-ba.",
+     "One bowl of soup, please."
+    ],
+    [
+     "H",
+     "ဟုတ်ကဲ့၊ ခဏလောက်စောင့်ပါ။",
+     "Houq-keh, k'a-na-lauq saun-pa.",
+     "Sure, one moment please."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "မီနူး",
+    "mi-nú",
+    "menu"
+   ],
+   [
+    "ဟင်းချို",
+    "hin-cho",
+    "soup"
+   ],
+   [
+    "ထမင်း",
+    "hta-min",
+    "rice"
+   ],
+   [
+    "ကော်ဖီ",
+    "kaw-p'i",
+    "coffee"
+   ],
+   [
+    "ရေခဲမှုန့်",
+    "yé-gé-hmoun",
+    "ice"
+   ],
+   [
+    "ခွက်",
+    "k'weq",
+    "bowl / cup (classifier)"
+   ],
+   [
+    "စောင့်တယ်",
+    "saun-deh",
+    "to wait"
+   ],
+   [
+    "ငတ်တယ်",
+    "ngaq-teh",
+    "to be hungry"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-lo ya-ma-la — \"may I...?\"",
+    "explain": "Attach -lo ya-ma-la to a verb to ask permission — literally \"if I [verb], will it be all right?\" It's the standard way to ask \"may I...?\" or \"can I...?\" in any polite setting.",
+    "examples": [
+     [
+      "ကြည့်လို့ရမလား။",
+      "Cí-lo ya-ma-la?",
+      "May I look?"
+     ],
+     [
+      "စားလို့ရမလား။",
+      "Sa-lo ya-ma-la?",
+      "May I eat (this)?"
+     ]
+    ]
+   },
+   {
+    "title": "Ordering with a classifier",
+    "explain": "Just like counting people needs -yauq (Unit 5), ordering food needs the right classifier: -k'weq for a bowl or cup. Number + classifier + pé-ba is the whole pattern for ordering anything.",
+    "examples": [
+     [
+      "တစ်ခွက်ပေးပါ။",
+      "Ta-k'weq pé-ba.",
+      "One bowl, please."
+     ]
+    ]
+   }
+  ],
+  "write": "A small loop with a flag-like stroke on top — one of the letters borrowed for Pali spellings; you'll meet it more in reading than writing.",
+  "culture": "When a group of Burmese friends goes out to eat, there's often an unspoken understanding about who pays — frequently whoever is older, more established, or hosting. Ko Aung offering to cover the bill next unit isn't generosity out of nowhere; it's closer to a default expectation for him as the local, older friend."
+ },
+ {
+  "n": 12,
+  "letter": "ဌ",
+  "name": "hta",
+  "part": "First Needs",
+  "theme": "Asking for the bill",
+  "goal": "Ask for the check and handle a simple payment.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဘေလ်ပေးပါ။",
+     "Beil pé-ba.",
+     "The bill, please."
+    ],
+    [
+     "H",
+     "ငါးရာငါးဆယ်ပါ။",
+     "Ngá-ya-ngá-zeh ba.",
+     "It's 550."
+    ],
+    [
+     "K",
+     "ကျွန်တော်ရှင်းမယ်။",
+     "Ca-na-w shin-meh.",
+     "I'll settle it."
+    ],
+    [
+     "Y",
+     "မလိုပါဘူး၊ ကျွန်တော်ရှင်းမယ်။",
+     "Ma-lo-ba-bú, ca-na-w shin-meh.",
+     "No need, I'll pay."
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့၊ ဒါဆိုနောက်တစ်ခါ။",
+     "Houq-keh, da-hso nauq-ta-k'a.",
+     "Alright, next time then."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဘေ့ငွေ",
+    "saun-di",
+    "the bill"
+   ],
+   [
+    "ငွေ",
+    "ngwé",
+    "money"
+   ],
+   [
+    "ပိုက်ဆံ",
+    "paiq-s'an",
+    "money (colloquial)"
+   ],
+   [
+    "ချွေတာ",
+    "c'wé-ta",
+    "to save (money)"
+   ],
+   [
+    "အကြွေ",
+    "a-cwé",
+    "change (coins)"
+   ],
+   [
+    "ငွေလက်ခံသလား",
+    "ngwé leq-k'an-tha-la",
+    "do you accept card?"
+   ],
+   [
+    "ငွေသား",
+    "ngwé-thá",
+    "cash"
+   ],
+   [
+    "အကြွေးဝယ်",
+    "a-cwé-weh",
+    "to buy on credit"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Numbers keep stacking the same way",
+    "explain": "550 is ngá-ya-ngá-zeh — literally \"5 hundred, 5 tens\" — built exactly like the smaller numbers from Units 5–6, just chained together. No new grammar, only more digits.",
+    "examples": [
+     [
+      "ငါးရာငါးဆယ်",
+      "Ngá-ya-ngá-zeh.",
+      "550."
+     ]
+    ]
+   },
+   {
+    "title": "da paq-hma — handing something over",
+    "explain": "Da paq-hma (\"here it is,\" literally \"this — put — at\") is what you say while physically handing over cash or an item. It pairs naturally with cé-zú-tin-ba-deh in reply.",
+    "examples": [
+     [
+      "ဒါပါ့မှာ။",
+      "Da paq-hma.",
+      "Here you go."
+     ]
+    ]
+   }
+  ],
+  "write": "Pairs with ဋ — another Pali-derived letter. Same small loop-and-flag shape, slightly rounder.",
+  "culture": "Watch for the friendly \"fight\" over the bill — both people reaching for it, one insisting, the other protesting — it's a real, common social ritual, not awkwardness. Losing that fight gracefully (as Ko Aung does here, agreeing to \"next time\") is itself part of the etiquette."
+ },
+ {
+  "n": 13,
+  "letter": "ဍ",
+  "name": "da",
+  "part": "First Needs",
+  "theme": "Taking a taxi",
+  "goal": "Tell a taxi driver where you're going and settle the fare.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ကျွန်တော်တက္ကစီယာဉ်မောင်းတယ်။ ဘယ်ကိုသွားချင်လဲ။",
+     "Ca-na-w teq-ka-si yin-maun-deh. Beh-go thwa-jin-lé.",
+     "I drive a taxi. Where do you want to go?"
+    ],
+    [
+     "Y",
+     "ရွှေတိဂုံဘုရားကိုသွားချင်ပါတယ်။",
+     "Shwé-da-goun p'a-ya-go thwa-jin-ba-deh.",
+     "I want to go to Shwedagon Pagoda."
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့။ လေးထောင်ကျပါတယ်။",
+     "Houq-keh. Lé-daun ca-ba-deh.",
+     "Alright. It costs 4000."
+    ],
+    [
+     "Y",
+     "သိပ်ကြီးပါတယ်။ နည်းနည်းလျှော့ပေးပါ။",
+     "Théiq cí-ba-deh. Né-né shaw-pé-ba.",
+     "That's a lot. A little discount, please?"
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့၊ သုံးထောင်ပါပဲ။",
+     "Houq-keh, thoun-daun-ba-béh.",
+     "Alright, 3000 then."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "သွားတယ်",
+    "thwa-deh",
+    "to go"
+   ],
+   [
+    "ကား",
+    "ka",
+    "car"
+   ],
+   [
+    "တက္ကစီ",
+    "teq-ka-si",
+    "taxi"
+   ],
+   [
+    "-ကို",
+    "-go",
+    "to (a place — direction marker)"
+   ],
+   [
+    "ဘယ်လောက်ကျလဲ",
+    "beh-lauq ca-lé",
+    "how much does it cost?"
+   ],
+   [
+    "ကျတယ်",
+    "ca-deh",
+    "to cost"
+   ],
+   [
+    "လျှော့",
+    "shaw",
+    "(a) discount"
+   ],
+   [
+    "နေရာ",
+    "né-ya",
+    "place"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-go — marking where you're going",
+    "explain": "Attach -go to a place name to mark it as your destination: [place]-go thwa-jin-ba-deh, \"I want to go to [place].\" This is the same -ko/-go you'll meet again in Unit 15 marking direct objects.",
+    "examples": [
+     [
+      "ဈေးကိုသွားချင်ပါတယ်။",
+      "Zé-go thwa-jin-ba-deh.",
+      "I want to go to the market."
+     ]
+    ]
+   },
+   {
+    "title": "Négotiating a price",
+    "explain": "Théiq cí-ba-deh (\"that's a lot\") plus né-né shaw-pé-ba (\"a little discount, please\") is the standard two-line haggling exchange, using théiq from Unit 2 and pé-ba from Unit 8.",
+    "examples": [
+     [
+      "သိပ်ကြီးပါတယ်။",
+      "Théiq cí-ba-deh.",
+      "That's too much."
+     ],
+     [
+      "နည်းနည်းလျှော့ပေးပါ။",
+      "Né-né shaw-pé-ba.",
+      "A little discount, please."
+     ]
+    ]
+   }
+  ],
+  "write": "A rounded loop with a hook trailing to the right — write the loop first, then let the hook flick out lightly.",
+  "culture": "Most street taxis don't run on a meter — the fare is agreed before the ride starts, which is why Ko Aung states a price up front rather than waiting until arrival. Negotiating it isn't rude; not negotiating at all is what marks someone as unfamiliar with how it works."
+ },
+ {
+  "n": 14,
+  "letter": "ဎ",
+  "name": "da",
+  "part": "First Needs",
+  "theme": "Directions inside a taxi",
+  "goal": "Guide a driver in real time — left, right, straight, and stop.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "တည့်တည့်သွားရမလား။",
+     "Teh-teh thwa-ya-ma-la.",
+     "Should I go straight?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ တည့်တည့်သွားပါ။",
+     "Houq-keh, teh-teh thwa-ba.",
+     "Yes, go straight."
+    ],
+    [
+     "Y",
+     "ရှေ့မှာဘယ်ဘက်ကိုလှည့်ပါ။",
+     "Shé-hma beh-beq-ko lé-ba.",
+     "Turn left up ahead."
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့။",
+     "Houq-keh.",
+     "Okay."
+    ],
+    [
+     "Y",
+     "ဒီမှာရပ်ပါ။",
+     "Di-hma yaq-pa.",
+     "Stop here."
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့၊ ရောက်ပါပြီ။",
+     "Houq-keh, yauq-pa-bi.",
+     "Alright, we've arrived."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "တည့်တည့်",
+    "teh-teh",
+    "straight ahead"
+   ],
+   [
+    "ဘယ်ဘက်",
+    "beh-beq",
+    "left (side)"
+   ],
+   [
+    "ညာဘက်",
+    "nya-beq",
+    "right (side)"
+   ],
+   [
+    "ကွေ့တယ်",
+    "kwé-deh",
+    "to turn"
+   ],
+   [
+    "ရပ်တယ်",
+    "yaq-teh",
+    "to stop"
+   ],
+   [
+    "ဒီမှာ",
+    "di-hma",
+    "here"
+   ],
+   [
+    "ဟိုမှာ",
+    "ho-hma",
+    "there"
+   ],
+   [
+    "ရှေ့မှာ",
+    "shé-hma",
+    "up ahead"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Direction + -ko + verb",
+    "explain": "Beh-beq-ko lé-ba is literally \"left-side-to turn-please\" — the same -ko direction marker from Unit 13's -go (they're the same marker; -ko after most syllables, -go after a nasal).",
+    "examples": [
+     [
+      "ဘယ်ဘက်ကိုလှည့်ပါ။",
+      "Beh-beq-ko lé-ba.",
+      "Turn left."
+     ],
+     [
+      "ညာဘက်ကိုလှည့်ပါ။",
+      "Nya-beq-ko lé-ba.",
+      "Turn right."
+     ]
+    ]
+   },
+   {
+    "title": "Short, urgent imperatives",
+    "explain": "In fast real-time situations like a moving taxi, Burmese drops down to bare verb + -ba, without the full -deh sentence — teh-teh thwa-ba, not the longer teh-teh thwa-ba-deh. Short and immediate.",
+    "examples": [
+     [
+      "ရပ်ပါ။",
+      "Yaq-pa.",
+      "Stop."
+     ],
+     [
+      "ဆက်သွားပါ။",
+      "Seq-thwa-ba.",
+      "Keep going."
+     ]
+    ]
+   }
+  ],
+  "write": "A rarer letter today, close cousin of ဍ. Recognize it in older texts more than you'll need to write it.",
+  "culture": "Giving directions from inside a moving vehicle is typically short and immediate — teh-teh thwa-ba (\"go straight\"), not a fuller polite sentence. The short imperative form isn't brusqueness, it's just what real-time, in-motion Burmese sounds like."
+ },
+ {
+  "n": 15,
+  "letter": "ဏ",
+  "name": "na",
+  "part": "First Needs",
+  "theme": "Shopping: this and that",
+  "goal": "Point at things and ask what they are and what they cost.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ဘုရားဖူးပြီးရင် ဈေးလေးဝင်ကြည့်မလား။",
+     "P'a-ya-p'u-pyí-yin zé-lé win-cí-mala.",
+     "After the pagoda, want to look at a little market?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ဝင်ကြည့်ရအောင်။",
+     "Houq-keh, win-cí-ya-aun.",
+     "Sure, let's go look."
+    ],
+    [
+     "Y",
+     "ဒါဘာလဲ။",
+     "Da ba-lé.",
+     "What's this?"
+    ],
+    [
+     "K",
+     "ဒါလုံချည်ပါ။",
+     "Da longyi ba.",
+     "This is a longyi."
+    ],
+    [
+     "Y",
+     "ဟိုဒါကိုကြည့်လို့ရမလား။",
+     "Ho-da-ko cí-lo ya-ma-la.",
+     "May I look at that one?"
+    ],
+    [
+     "H",
+     "ရပါတယ်၊ ကြည့်ပါ။",
+     "Ya-ba-deh, cí-ba.",
+     "Sure, go ahead and look."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဒါ",
+    "da",
+    "this (thing)"
+   ],
+   [
+    "ဟိုဒါ",
+    "ho-da",
+    "that (thing) over there"
+   ],
+   [
+    "ဒီဟာ",
+    "di-ha",
+    "this one"
+   ],
+   [
+    "ဘယ်ဟာ",
+    "beh-ha",
+    "which one"
+   ],
+   [
+    "-ကို",
+    "-ko",
+    "(object marker)"
+   ],
+   [
+    "ကြည့်တယ်",
+    "cí-deh",
+    "to look"
+   ],
+   [
+    "လက်စွပ်",
+    "leq-suq",
+    "ring (jewelry)"
+   ],
+   [
+    "ပုဆိုး/လုံချည်",
+    "longyi",
+    "longyi (sarong)"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "da / ho-da / di-ha — three ways to point",
+    "explain": "Da is the all-purpose \"this,\" ho-da specifically marks something farther away (\"that, over there\"), and di-ha adds emphasis (\"this one right here\"). All three work as the subject of a sentence exactly like any noun.",
+    "examples": [
+     [
+      "ဒါဘာလဲ။",
+      "Da ba-lé?",
+      "What's this?"
+     ],
+     [
+      "ဟိုဒါဘာလဲ။",
+      "Ho-da ba-lé?",
+      "What's that (over there)?"
+     ]
+    ]
+   },
+   {
+    "title": "-ko marking an object",
+    "explain": "When a verb acts on a specific, identified thing (\"look at that one,\" not just \"look\"), the object takes -ko. It's optional with vague objects but expected with specific ones like ho-da.",
+    "examples": [
+     [
+      "ဟိုဒါကိုကြည့်ပါ။",
+      "Ho-da-ko cí-ba.",
+      "Look at that one."
+     ]
+    ]
+   }
+  ],
+  "write": "This letter is Pali-only today — you'll recognize it in loanwords far more often than write it yourself.",
+  "culture": "You're welcome to pick up and examine items at most stalls without any obligation to buy — handling goods is normal shopping behavior, not a commitment. A shopkeeper re-folding or replacing an item you looked at isn't a signal of annoyance."
+ },
+ {
+  "n": 16,
+  "letter": "တ",
+  "name": "ta",
+  "part": "First Needs",
+  "theme": "Bargaining",
+  "goal": "Push back gently on a price and reach a number you're both happy with.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဒါဘယ်လောက်လဲ။",
+     "Da beh-lauq-lé.",
+     "How much is this?"
+    ],
+    [
+     "H",
+     "တစ်သောင်းပါ။",
+     "Ta-thaun ba.",
+     "Ten thousand."
+    ],
+    [
+     "Y",
+     "ဈေးနည်းနည်းလျှော့ပေးပါ။",
+     "Zé né-né shaw-pé-ba.",
+     "A little discount on the price, please."
+    ],
+    [
+     "H",
+     "မရပါဘူး၊ ဈေးဒီလောက်ပဲပါ။",
+     "Ma-ya-ba-bú, zé di-lauq-béh ba.",
+     "Can't do it, the price is only this much."
+    ],
+    [
+     "K",
+     "ကို့ကို ဈေးသင့်အောင်ပြောပေးပါ။",
+     "Ko-go zé thin-aun pyaw-pé-ba.",
+     "Help him get a fair price."
+    ],
+    [
+     "H",
+     "ဒါဆို ရှစ်ထောင်ပါ။",
+     "Da-hso shiq-htaun ba.",
+     "Alright then, eight thousand."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ဝယ်မယ်။",
+     "Houq-keh, weh-meh.",
+     "Alright, I'll take it."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဈေးနှုန်း",
+    "zé-hnoun",
+    "price"
+   ],
+   [
+    "ဝယ်တယ်",
+    "weh-deh",
+    "to buy"
+   ],
+   [
+    "ရောင်းတယ်",
+    "yaun-deh",
+    "to sell"
+   ],
+   [
+    "အရွယ်",
+    "a-ywéh",
+    "size"
+   ],
+   [
+    "အရောင်",
+    "a-yaun",
+    "color"
+   ],
+   [
+    "အသစ်",
+    "a-thiq",
+    "new"
+   ],
+   [
+    "အဟောင်း",
+    "a-haun",
+    "old (used)"
+   ],
+   [
+    "အနည်းငယ်",
+    "a-né-ngeh",
+    "just a little"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-meh — the future/intention ending",
+    "explain": "Weh-meh (\"I'll buy it\") uses -meh, the future counterpart to -deh: -deh states what is, -meh states what will be or what you intend. It follows the same politeness and negative patterns.",
+    "examples": [
+     [
+      "ဝယ်မယ်။",
+      "Weh-meh.",
+      "I'll buy it."
+     ],
+     [
+      "မဝယ်ဘူး။",
+      "Ma-weh-ba-bú.",
+      "I won't buy it."
+     ]
+    ]
+   },
+   {
+    "title": "di-lauq-béh — \"only this much\"",
+    "explain": "-béh (\"only\") attached to a quantity draws a firm line — a shopkeeper using it is signaling the price won't move further, politely but clearly.",
+    "examples": [
+     [
+      "ဒီလောက်ပဲ။",
+      "Di-lauq-béh.",
+      "Only this much."
+     ]
+    ]
+   }
+  ],
+  "write": "One of the most common letters in the whole script: a flat top, a downstroke, a small foot. Worth drilling on its own before anything else.",
+  "culture": "Bargaining among Burmese people is often closer to a friendly game than a confrontation — both sides know roughly where it'll land, and getting there with good humor matters as much as the final number. Having a local friend along, like Ko Aung here, commonly gets a better price than a visitor alone would — not through anything underhanded, just the ordinary \"local rate.\""
+ },
+ {
+  "n": 17,
+  "letter": "ထ",
+  "name": "hta",
+  "part": "First Needs",
+  "theme": "Asking to take a photo",
+  "goal": "Politely ask if you can take someone's photo.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဓာတ်ပုံရိုက်ချင်ပါတယ်။",
+     "Daq-poun yaiq-jin-ba-deh.",
+     "I'd like to take a photo."
+    ],
+    [
+     "Y",
+     "ရိုက်လို့ရမလား။",
+     "Yaiq-lo ya-ma-la.",
+     "May I?"
+    ],
+    [
+     "H",
+     "ရပါတယ်၊ ရိုက်ပါ။",
+     "Ya-ba-deh, yaiq-pa.",
+     "Sure, go ahead."
+    ],
+    [
+     "K",
+     "ကျွန်တော် အတူတူရိုက်ပေးမယ်။",
+     "Ca-na-w a-tu-tu yaiq-pé-meh.",
+     "I'll take one of us together."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်၊ ကို အောင်။",
+     "Cé-zú-tin-ba-deh, Ko Aun.",
+     "Thank you, Ko Aung."
+    ],
+    [
+     "K",
+     "ပြုံးပါ။",
+     "Pyoun-ba.",
+     "Smile."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့။",
+     "Houq-keh.",
+     "Okay."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဓာတ်ပုံ",
+    "daq-poun",
+    "photograph"
+   ],
+   [
+    "ရိုက်တယ်",
+    "yaiq-teh",
+    "to take (a photo) / to hit"
+   ],
+   [
+    "ကင်မရာ",
+    "kin-ma-ya",
+    "camera"
+   ],
+   [
+    "ဖုန်း",
+    "p'oun",
+    "phone"
+   ],
+   [
+    "ပြုံးတယ်",
+    "pyoun-deh",
+    "to smile"
+   ],
+   [
+    "အတူတူ",
+    "a-tu-tu",
+    "together"
+   ],
+   [
+    "ခွင့်ပြု",
+    "k'win-pyú",
+    "permission"
+   ],
+   [
+    "ဗီဒီယို",
+    "bi-di-yo",
+    "video"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Chaining -jin-deh and -lo ya-ma-la",
+    "explain": "You can state your intention (Unit 8's -jin-deh: \"I'd like to...\") and then formally ask permission (Unit 11's -lo ya-ma-la: \"may I?\") back to back — very natural, very polite Burmese.",
+    "examples": [
+     [
+      "ဓာတ်ပုံရိုက်ချင်ပါတယ်။ ရိုက်လို့ရမလား။",
+      "Daq-poun yaiq-jin-ba-deh. Yaiq-lo ya-ma-la?",
+      "I'd like to take a photo. May I?"
+     ]
+    ]
+   },
+   {
+    "title": "yaiq-pa — a short, warm \"go ahead\"",
+    "explain": "The bare imperative yaiq-pa (\"[go ahead and] take it\") is friendlier and more immediate than a full -deh sentence — appropriate once permission is basically already given.",
+    "examples": [
+     [
+      "ရိုက်ပါ။",
+      "Yaiq-pa.",
+      "Go ahead, take it."
+     ]
+    ]
+   }
+  ],
+  "write": "ထ is တ with a loop added on top. Write တ first, then curl the top stroke into a small loop.",
+  "culture": "Always ask before photographing monks, at religious sites, or people in general — it's taken seriously, not a formality. The reverse also happens often: don't be surprised if locals ask to take a photo with you instead of the other way around, especially outside major cities."
+ },
+ {
+  "n": 18,
+  "letter": "ဒ",
+  "name": "da",
+  "part": "First Needs",
+  "theme": "Asking the way",
+  "goal": "Ask for and follow directions to a place.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "နောက်တစ်နေရာ ဘယ်မှာလဲ။",
+     "Nauq-ta-nay-ya beh-hma-lé.",
+     "Where's the next place?"
+    ],
+    [
+     "K",
+     "တည့်တည့်သွားပါ။ ဘယ်ဘက်ကိုလှည့်ပါ။",
+     "Teh-teh thwa-ba. Beh-beq-ko lé-ba.",
+     "Go straight. Turn left."
+    ],
+    [
+     "Y",
+     "ဒီလမ်းလား။",
+     "Di-lan-la.",
+     "This road?"
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့၊ ဒီလမ်းပါ။",
+     "Houq-keh, di-lan ba.",
+     "Yes, this road."
+    ],
+    [
+     "Y",
+     "ကျွန်တော်ကိုယ်တိုင်လမ်းလျှောက်ချင်ပါတယ်။",
+     "Ca-na-w ko-dain lan-shauq-jin-ba-deh.",
+     "I'd like to walk there myself."
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့၊ ကျွန်တော်လမ်းညွှန်ပေးမယ်။",
+     "Houq-keh, ca-na-w lan-hnyun-pé-meh.",
+     "Sure, I'll show you the way."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဘယ်မှာလဲ",
+    "beh-hma-lé",
+    "where is it?"
+   ],
+   [
+    "ကြာတယ်",
+    "ca-deh",
+    "to be far / to take long"
+   ],
+   [
+    "နီးတယ်",
+    "ni-deh",
+    "to be close"
+   ],
+   [
+    "ကားလမ်း",
+    "ka-lan",
+    "road"
+   ],
+   [
+    "လမ်းဆုံ",
+    "lan-zoun",
+    "junction"
+   ],
+   [
+    "တံတား",
+    "ta-da",
+    "bridge"
+   ],
+   [
+    "ရပ်ကွက်",
+    "yaq-kweq",
+    "neighborhood"
+   ],
+   [
+    "အနီးဆုံး",
+    "a-ni-zoun",
+    "nearest"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-hma — marking location",
+    "explain": "-hma attaches to a place or object to mark \"at/in/on\": Zé-hma = \"at the market.\" It's also how you ask where something is: place-word + beh-hma-lé, \"where is [place]?\"",
+    "examples": [
+     [
+      "ဈေးဘယ်မှာလဲ။",
+      "Zé beh-hma-lé?",
+      "Where's the market?"
+     ],
+     [
+      "ဒီမှာရှိတယ်။",
+      "Di-hma shi-deh.",
+      "It's right here."
+     ]
+    ]
+   },
+   {
+    "title": "ca-deh doing double duty",
+    "explain": "Ca-deh means both \"to be far\" and \"to take a long time\" — the same word covers physical and time distance, the way English sometimes overlaps \"far\" and \"long.\"",
+    "examples": [
+     [
+      "ကြာသလား။",
+      "Ca-tha-la?",
+      "Is it far? / Will it take long?"
+     ]
+    ]
+   }
+  ],
+  "write": "A rounded loop with a flat base — a softer-edged cousin of တ.",
+  "culture": "When you need to pass in front of someone — stepping past a seated group, cutting across someone's path — a small forward bow or lowered posture while moving through is the everyday version of \"excuse me,\" often doing more work than any phrase. It's especially expected in front of elders or monks, but common enough generally that you'll see locals do it for each other too."
+ },
+ {
+  "n": 19,
+  "letter": "ဓ",
+  "name": "da",
+  "part": "First Needs",
+  "theme": "Near, far, and landmarks",
+  "goal": "Describe how close something is, using a nearby landmark.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဒီကနေ ဘယ်လောက်ကြာမလဲ။",
+     "Di-ga-né beh-lauq ca-ma-lé.",
+     "How long from here?"
+    ],
+    [
+     "K",
+     "ဆိုင်ဘေးမှာရှိတယ်။ ငါးမိနစ်ပဲ။",
+     "S'ain-beq-hma shi-deh. Ngá-mi-niq-béh.",
+     "It's next to the shop. Just five minutes."
+    ],
+    [
+     "Y",
+     "ကြာသလား။",
+     "Ca-tha-la.",
+     "Is it far?"
+    ],
+    [
+     "K",
+     "မကြာပါဘူး၊ နီးပါတယ်။",
+     "Ma-ca-ba-bú, ni-ba-deh.",
+     "Not far, it's close."
+    ],
+    [
+     "Y",
+     "တံတားနောက်မှာလား။",
+     "Ta-da-nauq-hma-la.",
+     "Behind the bridge?"
+    ],
+    [
+     "K",
+     "မဟုတ်ပါဘူး၊ ရှေ့မှာပါ။",
+     "Ma-houq-pa-bú, shé-hma ba.",
+     "No, it's in front."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သွားရအောင်။",
+     "Houq-keh, thwa-ya-aun.",
+     "Okay, let's go."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဆိုင်",
+    "s'ain",
+    "shop"
+   ],
+   [
+    "ဘေးမှာ",
+    "beq-hma",
+    "next to"
+   ],
+   [
+    "ရှေ့မှာ",
+    "shé-hma",
+    "in front of"
+   ],
+   [
+    "နောက်မှာ",
+    "nauq-hma",
+    "behind"
+   ],
+   [
+    "အထဲမှာ",
+    "a-t'eh-hma",
+    "inside"
+   ],
+   [
+    "အပြင်မှာ",
+    "a-pyin-hma",
+    "outside"
+   ],
+   [
+    "အောက်မှာ",
+    "auq-hma",
+    "below / under"
+   ],
+   [
+    "အပေါ်မှာ",
+    "apaw-hma",
+    "above / on top of"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Landmark + -hma builds any location phrase",
+    "explain": "The same -hma from Unit 18 turns any noun into a location word by combining with position words: s'ain-beq-hma (\"next to the shop\"), ta-da-nauq-hma (\"behind the bridge\"). Landmark first, position word, then -hma.",
+    "examples": [
+     [
+      "ဆိုင်ဘေးမှာ",
+      "S'ain-beq-hma",
+      "next to the shop"
+     ],
+     [
+      "တံတားနောက်မှာ",
+      "Ta-da-nauq-hma",
+      "behind the bridge"
+     ]
+    ]
+   }
+  ],
+  "write": "Takes ဒ and adds a small hook at the top-right corner — same base loop, one extra flick.",
+  "culture": "Distance and time estimates in casual conversation are often more social than literal — \"just a bit further\" or \"five minutes\" can stretch a fair amount in practice. Treat these as reassurance more than precise measurement, the way you might in any language, just more so."
+ },
+ {
+  "n": 20,
+  "letter": "န",
+  "name": "na",
+  "part": "First Needs",
+  "theme": "Getting around by bus, car, or train",
+  "goal": "Talk about how you're traveling and catch the right transport.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ညနေဆို ဘယ်လိုပြန်ရမလဲ။",
+     "Nya-né-hso beh-lo pyan-ya-ma-lé.",
+     "In the evening, how do I get back?"
+    ],
+    [
+     "K",
+     "ဘတ်စ်ကားစီးလို့ရတယ်။ ဒါမှမဟုတ် တက္ကစီခေါ်လို့ရတယ်။",
+     "Baq-sa-ka si-lo ya-deh. Da-hma-ma-houq teq-ka-si k'aw-lo ya-deh.",
+     "You can take a bus, or call a taxi."
+    ],
+    [
+     "Y",
+     "ဘူတာဘယ်လောက်ကြာလဲ။",
+     "Bu-da beh-lauq ca-lé.",
+     "How far is the station?"
+    ],
+    [
+     "K",
+     "ဒီကနေ ဆယ်မိနစ်ပဲ။",
+     "Di-ga-né sé-mi-niq-béh.",
+     "Just ten minutes from here."
+    ],
+    [
+     "Y",
+     "ဒါဆို ဘတ်စ်ကားစီးမယ်။",
+     "Da-hso baq-sa-ka si-meh.",
+     "Then I'll take the bus."
+    ],
+    [
+     "K",
+     "ဟုတ်ကဲ့၊ ကျွန်တော်ဖုန်းခေါ်ထားမယ်။",
+     "Houq-keh, ca-na-w p'oun k'aw-hta-meh.",
+     "Okay, I'll be a phone call away."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်၊ ကို အောင်။",
+     "Cé-zú-tin-ba-deh, Ko Aun.",
+     "Thank you, Ko Aung."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ဘတ်စ်ကား",
+    "baq-sa-ka",
+    "bus"
+   ],
+   [
+    "ကား",
+    "ka",
+    "car"
+   ],
+   [
+    "ရထား",
+    "ya-ta",
+    "train"
+   ],
+   [
+    "တက္ကစီ",
+    "teq-ka-si",
+    "taxi"
+   ],
+   [
+    "စီးတယ်",
+    "si-deh",
+    "to ride"
+   ],
+   [
+    "ဘူတာ",
+    "bu-da",
+    "station"
+   ],
+   [
+    "အငှား",
+    "a-hnga",
+    "rental / for hire"
+   ],
+   [
+    "ယာဉ်",
+    "yin",
+    "vehicle (general)"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "si-deh — the one verb for riding anything",
+    "explain": "Si-deh covers riding a bus, car, train, bike, boat, or elephant — one all-purpose verb, unlike English's drive/ride/take. What changes is the noun in front of it, not the verb.",
+    "examples": [
+     [
+      "ဘတ်စ်ကားစီးတယ်",
+      "Baq-sa-ka si-deh.",
+      "to ride the bus"
+     ],
+     [
+      "ရထားစီးတယ်",
+      "Ya-ta si-deh.",
+      "to ride the train"
+     ]
+    ]
+   },
+   {
+    "title": "si-ya-deh — \"you catch it (there)\"",
+    "explain": "Adding -ya- before -deh signals possibility/necessity — roughly \"[you] get to / need to [verb].\" Si-ya-deh, \"that's where you catch it,\" is subtly different from plain si-deh, \"to ride.\"",
+    "examples": [
+     [
+      "ဒီမှာစီးရတယ်။",
+      "Di-hma si-ya-deh.",
+      "You catch it right here."
+     ]
+    ]
+   }
+  ],
+  "write": "One of the most frequent letters in the script — a loop with a straight tail down the right side.",
+  "culture": "Strangers will often just point or physically walk a short distance with you to show the way, rather than give a verbal string of directions — showing is more common than telling. If someone starts walking alongside you after you ask directions, they're probably helping, not following you."
+ },
+ {
+  "n": 21,
+  "letter": "ပ",
+  "name": "pa",
+  "part": "First Conversations",
+  "theme": "Where are you from",
+  "goal": "Answer the question every traveler gets asked first.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ခဏနားရအောင်။ ဘယ်ကလာတာလဲ။",
+     "K'a-na na-ya-aun. Beh-ga la-da-lé.",
+     "Let's rest a moment. Where do you come from?"
+    ],
+    [
+     "Y",
+     "အမေရိကန်ကလာပါတယ်။",
+     "Ameiq-ka-ga la-ba-deh.",
+     "I come from America."
+    ],
+    [
+     "K",
+     "မြန်မာကို ဘယ်တော့လာတာလဲ။",
+     "Myan-ma-go beh-dawh la-da-lé.",
+     "When did you come to Myanmar?"
+    ],
+    [
+     "Y",
+     "ဒီနှစ်ကလာပါတယ်။",
+     "Ya-dhiq-pyi-ga la-ba-deh.",
+     "I came this year."
+    ],
+    [
+     "K",
+     "ဒါဆို ပထမဆုံးလာတာပေါ့။",
+     "Da-hso pa-t'a-ma-zoun la-da-paw.",
+     "So this is your first time, then."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ပထမဆုံးပါ။",
+     "Houq-keh, pa-t'a-ma-zoun ba.",
+     "Yes, my first time."
+    ],
+    [
+     "K",
+     "ကျေနပ်လား။",
+     "Cé-naq-la.",
+     "Are you enjoying it?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သိပ်ကျေနပ်ပါတယ်။",
+     "Houq-keh, théiq cé-naq-ba-deh.",
+     "Yes, very much."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ပြည်",
+    "pyi",
+    "country"
+   ],
+   [
+    "နိုင်ငံ",
+    "nain-ngan",
+    "nation"
+   ],
+   [
+    "နိုင်ငံခြား",
+    "nain-ngan-c'a",
+    "foreign"
+   ],
+   [
+    "-ကနေ / -ကလာတယ်",
+    "-ga / -ga la-deh",
+    "from / to come from"
+   ],
+   [
+    "အမေရိကန်",
+    "ameiq-ka",
+    "America"
+   ],
+   [
+    "ခရီးသည်",
+    "k'a-yi-thé",
+    "traveler"
+   ],
+   [
+    "ပထမဆုံး",
+    "pa-t'a-ma-zoun",
+    "the first time"
+   ],
+   [
+    "ခရီးစဉ်",
+    "k'a-yi-zin",
+    "journey"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-ga — marking where from",
+    "explain": "-ga attached to a place marks it as a source or starting point: Ameiq-ka-ga la-ba-deh, \"I come from America.\" It pairs with beh-ga la-dha-lé? to ask and answer the same question.",
+    "examples": [
+     [
+      "ဘယ်ကလာသလဲ။",
+      "Beh-ga la-dha-lé?",
+      "Where do you come from?"
+     ],
+     [
+      "အမေရိကန်ကလာပါတယ်။",
+      "Ameiq-ka-ga la-ba-deh.",
+      "I'm from America."
+     ]
+    ]
+   }
+  ],
+  "write": "A closed loop, flat-bottomed — this is the ပ from the very first example in the Basic Scripts Cheatsheet: ပ + ူ = ပူ.",
+  "culture": "Personal questions that might feel forward elsewhere — where you're from, your age, whether you're married — are asked early and often in Myanmar, and answering them isn't an imposition, it's how people show interest in you. Expect this pattern to keep coming up through the rest of the book; it's not unique to Ko Aung."
+ },
+ {
+  "n": 22,
+  "letter": "ဖ",
+  "name": "hpa",
+  "part": "First Conversations",
+  "theme": "How long, and first impressions",
+  "goal": "Talk about how long you're staying and what you think of the place.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ဘယ်လောက်ကြာကြာနေမလဲ။",
+     "Beh-lauq ca-ca né-me-lé.",
+     "How long will you stay?"
+    ],
+    [
+     "Y",
+     "တစ်လပဲနေမယ်။",
+     "Ta-la-béh né-meh.",
+     "Just one month."
+    ],
+    [
+     "K",
+     "မြန်မာကို ဘယ်လိုထင်လဲ။",
+     "Myan-ma-go beh-lo t'in-lé.",
+     "What do you think of Myanmar?"
+    ],
+    [
+     "Y",
+     "သိပ်လှပါတယ်။ လူတွေလည်း စိတ်ကောင်းကြတယ်။",
+     "Théiq hla-ba-deh. Lu-dwé-léh seiq-kaun-ca-deh.",
+     "It's really beautiful. And the people are kind, too."
+    ],
+    [
+     "K",
+     "ရွှေတိဂုံကို ဘယ်လိုထင်လဲ။",
+     "Shwé-da-goun-go beh-lo t'in-lé.",
+     "What did you think of Shwedagon?"
+    ],
+    [
+     "Y",
+     "အံ့သြစရာကောင်းတယ်။",
+     "An-o-za-ya-kaun-deh.",
+     "It was amazing."
+    ],
+    [
+     "K",
+     "ပြန်လာချင်သေးလား။",
+     "Pyan-la-jin-dhé-la.",
+     "Do you want to come back again?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ပြန်လာချင်ပါတယ်။",
+     "Houq-keh, pyan-la-jin-ba-deh.",
+     "Yes, I'd like to."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "နေတယ်",
+    "né-deh",
+    "to stay / to live"
+   ],
+   [
+    "လ",
+    "la",
+    "month"
+   ],
+   [
+    "ရက်",
+    "yeq",
+    "day"
+   ],
+   [
+    "ထင်တယ်",
+    "t'in-deh",
+    "to think / to guess"
+   ],
+   [
+    "လှတယ်",
+    "hla-deh",
+    "to be beautiful"
+   ],
+   [
+    "စိတ်ဝင်စားတယ်",
+    "seiq-win-sa-deh",
+    "to be interesting"
+   ],
+   [
+    "ပထမဆုံးအကြိမ်",
+    "pa-t'a-ma-zoun a-cein",
+    "the first time"
+   ],
+   [
+    "ပြန်လာချင်တယ်",
+    "pyan-la-jin-deh",
+    "to want to come back"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "beh-lauq ca-ca — \"for how long\"",
+    "explain": "Ca-ca (doubling ca-deh, \"to take time\") after beh-lauq asks specifically about duration, distinct from beh-lauq-lé (price, Unit 6) — same question word, different follow-up shapes the meaning.",
+    "examples": [
+     [
+      "ဘယ်လောက်ကြာကြာနေမလဲ။",
+      "Beh-lauq ca-ca né-me-lé?",
+      "How long will you stay?"
+     ]
+    ]
+   },
+   {
+    "title": "t'in-deh — sharing an opinion",
+    "explain": "Beh-lo t'in-lé? (\"what do you think?\") is the natural opener for small talk about impressions — answer it with any adjective-verb you already know: hla-ba-deh, seiq-win-sa-ba-deh, kaun-ba-deh.",
+    "examples": [
+     [
+      "ဘယ်လိုထင်လဲ။",
+      "Beh-lo t'in-lé?",
+      "What do you think?"
+     ],
+     [
+      "လှပါတယ်။",
+      "Hla-ba-deh.",
+      "It's beautiful."
+     ]
+    ]
+   }
+  ],
+  "write": "ဖ is ပ with the top broken open into a loop. Write ပ, then let the top curl outward instead of closing.",
+  "culture": "Warm, general praise of the country (\"it's beautiful,\" \"the food is great\") is welcomed but sometimes lightly waved off, almost reflexively — a specific compliment about one place, dish, or person tends to land more genuinely than a broad one."
+ },
+ {
+  "n": 23,
+  "letter": "ဗ",
+  "name": "ba",
+  "part": "First Conversations",
+  "theme": "What's your name",
+  "goal": "Introduce yourself and ask for someone else's name — properly, the Okell way.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "K",
+     "ဒါက ကျွန်တော့်သူငယ်ချင်း စု ပါ။",
+     "Da-ga ca-nawt thu-ngeh-jin Su ba.",
+     "This is my friend Su."
+    ],
+    [
+     "S",
+     "မင်္ဂလာပါ။ နာမည်ဘယ်လိုခေါ်သလဲ။",
+     "Mingalar-ba. Nan-meh beh-lo k'aw-dha-lé.",
+     "Hello. What is your name?"
+    ],
+    [
+     "Y",
+     "ကျွန်တော့်နာမည်က [name] ပါ။",
+     "Ca-nawt nan-meh-ga [name] ba.",
+     "My name is [name]."
+    ],
+    [
+     "S",
+     "တွေ့ရတာဝမ်းသာပါတယ်။",
+     "Twé-ya-da wun-tha-ba-deh.",
+     "Nice to meet you."
+    ],
+    [
+     "Y",
+     "ကျွန်တော်လည်း တွေ့ရတာဝမ်းသာပါတယ်။",
+     "Ca-na-w-léh twé-ya-da wun-tha-ba-deh.",
+     "I'm glad to meet you too."
+    ],
+    [
+     "K",
+     "စုက ဒီမှာနေတဲ့ ကျွန်တော့်သူငယ်ချင်းပါ။",
+     "Su-ga di-hma né-deh ca-nawt thu-ngeh-jin ba.",
+     "Su's my friend who lives here."
+    ],
+    [
+     "S",
+     "ကို အောင်ရော ဘယ်လိုသိကြသလဲ။",
+     "Ko Aun yaw beh-lo thi-ca-dha-lé.",
+     "And how do you two know each other?"
+    ],
+    [
+     "Y",
+     "ဈေးထဲမှာတွေ့တာပါ။",
+     "Zé-t'eh-hma twé-da ba.",
+     "We met at the market."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "နာမည်",
+    "nan-meh",
+    "name"
+   ],
+   [
+    "ခေါ်တယ်",
+    "k'aw-deh",
+    "to be called / to call"
+   ],
+   [
+    "ကျွန်တော်",
+    "ca-na-w",
+    "I (man speaking)"
+   ],
+   [
+    "ကျွန်မ",
+    "ca-ma",
+    "I (woman speaking)"
+   ],
+   [
+    "တွေ့တယ်",
+    "twé-deh",
+    "to meet"
+   ],
+   [
+    "ဝမ်းသာတယ်",
+    "wun-tha-deh",
+    "to be glad"
+   ],
+   [
+    "-က",
+    "-ga",
+    "(topic marker — \"as for...\")"
+   ],
+   [
+    "ခင်ဗျား/ရှင်",
+    "khin-bya / shin",
+    "you (to a man / to a woman, polite)"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "ca-na-w / ca-ma — \"I\", by speaker gender",
+    "explain": "This is BAMA's own letter, and it starts the most personal sentence you'll learn: \"I\" has two words depending on who's speaking — ca-na-w for a man, ca-ma for a woman. Not a choice; it's fixed by the speaker's own gender.",
+    "examples": [
+     [
+      "ကျွန်တော်ကြိုက်ပါတယ်။",
+      "Ca-na-w caiq-pa-deh.",
+      "I like it. (man)"
+     ],
+     [
+      "ကျွန်မကြိုက်ပါတယ်။",
+      "Ca-ma caiq-pa-deh.",
+      "I like it. (woman)"
+     ]
+    ]
+   },
+   {
+    "title": "Nan-meh beh-lo k'aw-dha-lé — asking a name properly",
+    "explain": "Literally \"name — how — is called?\" This is Okell's own phrasing for \"what is your name?\" — note k'aw-dha-lé uses the -tha-la/-dha-la question ending from Unit 4, closed by -lé because beh-lo is a question word (Unit 7's rule).",
+    "examples": [
+     [
+      "နာမည်ဘယ်လိုခေါ်သလဲ။",
+      "Nan-meh beh-lo k'aw-dha-lé?",
+      "What is your name?"
+     ]
+    ]
+   }
+  ],
+  "write": "ဗ — this is BAMA's own mark, and the first sound in ဗမာ, \"Bama.\" A rounded top over a small loop underneath.",
+  "culture": "Burmese names don't work like Western ones — there's no inherited family surname passed down, and a name is usually chosen fresh for each child, often tied to their birth day of the week astrologically. The title before a name (Ko, U, Daw, Ma — which you'll meet properly in later books) carries as much social information as the name itself."
+ },
+ {
+  "n": 24,
+  "letter": "ဘ",
+  "name": "ba",
+  "part": "First Conversations",
+  "theme": "How old are you",
+  "goal": "Ask and answer questions about age.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "S",
+     "အသက်ဘယ်လောက်ရှိပြီလဲ။",
+     "A-t'eq beh-lauq shi-bi-lé.",
+     "How old are you?"
+    ],
+    [
+     "Y",
+     "သုံးဆယ့်နှစ်ရှိပါပြီ။",
+     "Thoun-zeh-hniq shi-ba-bi.",
+     "I'm thirty-two."
+    ],
+    [
+     "S",
+     "ကို အောင်ကရော ဘယ်လောက်ရှိပြီလဲ။",
+     "Ko Aun-ga-yaw beh-lauq shi-bi-lé.",
+     "And how old is Ko Aung?"
+    ],
+    [
+     "K",
+     "ငါးဆယ်ရှိပါပြီ။",
+     "Ngá-zeh shi-ba-bi.",
+     "I'm fifty."
+    ],
+    [
+     "S",
+     "ငါကတော့ သုံးဆယ်ပဲ ရှိသေးတယ်။",
+     "Nga-ga-daw thoun-zeh-béh shi-dhé-deh.",
+     "I'm still only thirty."
+    ],
+    [
+     "K",
+     "စုက ငါ့ထက်အများကြီးငယ်တယ်။",
+     "Su-ga ngat'eq a-mya-cí ngeh-deh.",
+     "Su's a lot younger than me."
+    ],
+    [
+     "Y",
+     "သုံးယောက်လုံး အသက်မတူဘူးနော်။",
+     "Thoun-yauq-loun a-t'eq ma-tu-bu-naw.",
+     "None of us are the same age, huh."
+    ],
+    [
+     "S",
+     "ဟုတ်တယ်၊ ဒါပေမဲ့ သူငယ်ချင်းတွေပါ။",
+     "Houq-teh, da-bé-méh thu-ngeh-jin-dwé ba.",
+     "True, but we're friends all the same."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "အသက်",
+    "a-t'eq",
+    "age"
+   ],
+   [
+    "နှစ်",
+    "hniq",
+    "year(s)"
+   ],
+   [
+    "ရှိတယ်",
+    "shi-deh",
+    "there is / to have / to be [age]"
+   ],
+   [
+    "အကြီး",
+    "a-cí",
+    "older / senior"
+   ],
+   [
+    "အငယ်",
+    "a-ngeh",
+    "younger / junior"
+   ],
+   [
+    "-ပြီ",
+    "-bi",
+    "already (change-of-state ending)"
+   ],
+   [
+    "အသက်ကြီးတယ်",
+    "a-t'eq cí-deh",
+    "to be old (in years)"
+   ],
+   [
+    "ငယ်ရွယ်တယ်",
+    "ngeh-ywéh-deh",
+    "to be young"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "shi-deh — \"there is,\" \"to have,\" and age all at once",
+    "explain": "Shi-deh is the general existence verb — \"there is,\" \"to have\" — and Burmese states age with it: a-t'eq thoun-zeh-hniq shi-deh, literally \"age thirty exists.\" It behaves like any other -deh verb for negatives and questions.",
+    "examples": [
+     [
+      "အသက်ဘယ်လောက်ရှိပြီလဲ။",
+      "A-t'eq beh-lauq shi-bi-lé?",
+      "How old are you?"
+     ],
+     [
+      "အသက်နှစ်ဆယ်ရှိပါတယ်။",
+      "A-t'eq hna-zeh shi-ba-deh.",
+      "I'm twenty."
+     ]
+    ]
+   },
+   {
+    "title": "-bi — a change that's already happened",
+    "explain": "-bi replaces -deh when something has newly become true — shi-ba-bi (\"[I] am now...\") signals your age as an already-settled fact, not a general statement, subtly different from plain shi-ba-deh.",
+    "examples": [
+     [
+      "နှစ်ဆယ်ရှိပါပြီ။",
+      "Hna-zeh shi-ba-bi.",
+      "I've turned twenty."
+     ]
+    ]
+   }
+  ],
+  "write": "ဘ is a large open loop — one of the roomiest letters on the page. Give it space; don't let it collapse into a tight circle.",
+  "culture": "Asking someone's age directly, as Su does here, is completely ordinary — age often determines the kinship terms and level of formality used with someone (whether you're a \"Ko,\" older brother, or \"younger\" to them), so it's practical information, not a personal question the way it might read in English."
+ },
+ {
+  "n": 25,
+  "letter": "မ",
+  "name": "ma",
+  "part": "First Conversations",
+  "theme": "Asking about work",
+  "goal": "Talk about what you do for a living.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "S",
+     "ဘာအလုပ်လုပ်သလဲ။",
+     "Ba a-louq louq-dha-lé.",
+     "What work do you do?"
+    ],
+    [
+     "Y",
+     "ကျွန်တော် အင်ဂျင်နီယာလုပ်ပါတယ်။",
+     "Ca-na-w in-ji-ni-ya louq-ba-deh.",
+     "I work as an engineer."
+    ],
+    [
+     "S",
+     "ကျွန်မကတော့ ဆရာမလုပ်ပါတယ်။",
+     "Ca-ma-ga-daw hsa-ya-ma louq-ba-deh.",
+     "I work as a teacher."
+    ],
+    [
+     "Y",
+     "ဘယ်မှာလဲ။",
+     "Beh-hma-lé.",
+     "Where (do you work)?"
+    ],
+    [
+     "S",
+     "ကျောင်းမှာပါ၊ ဒီအနီးမှာပဲ။",
+     "Kyaun-hma ba, di-a-ni-hma-béh.",
+     "At a school, right nearby."
+    ],
+    [
+     "K",
+     "ကျွန်တော်ကတော့ တက္ကစီယာဉ်မောင်းတယ်ဆိုတာ သိပြီးသားနော်။",
+     "Ca-na-w-ga-daw teq-ka-si yin-maun-deh-hso-da thi-pyí-dha-naw.",
+     "You already know I drive a taxi, right."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သိပါပြီ။",
+     "Houq-keh, thi-ba-bi.",
+     "Yes, I know already."
+    ],
+    [
+     "S",
+     "အလုပ်ကြိုက်လား။",
+     "A-louq caiq-la.",
+     "Do you like your job?"
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "အလုပ်",
+    "a-louq",
+    "work / job"
+   ],
+   [
+    "လုပ်တယ်",
+    "louq-teh",
+    "to do / to make"
+   ],
+   [
+    "ကျောင်း",
+    "kyaun",
+    "school"
+   ],
+   [
+    "ကုမ္ပဏီ",
+    "koun-pa-ni",
+    "company"
+   ],
+   [
+    "ဆရာ",
+    "hsa-ya",
+    "teacher (male)"
+   ],
+   [
+    "ဆရာမ",
+    "hsa-ya-ma",
+    "teacher (female)"
+   ],
+   [
+    "အလုပ်ရှင်",
+    "a-louq-shin",
+    "employer / boss"
+   ],
+   [
+    "အားလပ်ရက်",
+    "a-laq-yeq",
+    "day off"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "louq-teh — the general verb \"to do\"",
+    "explain": "Louq-teh (\"to do, to make\") is the workhorse for describing any job: a-louq louq-teh (\"to do work\"), or noun + louq-teh (\"to work as [noun]\") — hsa-ya-ma louq-ba-deh, \"I work as a teacher.\"",
+    "examples": [
+     [
+      "ဆရာမလုပ်ပါတယ်။",
+      "Hsa-ya-ma louq-ba-deh.",
+      "I work as a teacher."
+     ]
+    ]
+   }
+  ],
+  "write": "Three humps in a row — a wave shape, evenly spaced. One of the easier letters to keep consistent at speed.",
+  "culture": "Descriptions of one's own job often undersell it a little — modesty in talking about your own status or achievements is the norm, so a humble-sounding answer may reflect politeness more than the actual scale of what someone does."
+ },
+ {
+  "n": 26,
+  "letter": "ယ",
+  "name": "ya",
+  "part": "First Conversations",
+  "theme": "Asking about family — married?",
+  "goal": "Ask politely whether someone is married and reply about your own situation.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "S",
+     "အိမ်ထောင်ရှိပြီလား။",
+     "Ein-daun shi-bi-la.",
+     "Are you married?"
+    ],
+    [
+     "Y",
+     "မရှိသေးပါဘူး။",
+     "Ma-shi-dhé-ba-bú.",
+     "Not yet."
+    ],
+    [
+     "S",
+     "ကို အောင်ကတော့ အိမ်ထောင်ရှိပြီ။",
+     "Ko Aun-ga-daw ein-daun shi-bi.",
+     "Ko Aung is married already."
+    ],
+    [
+     "K",
+     "ဟုတ်တယ်၊ ဇနီးရှိတယ်။",
+     "Houq-teh, za-ni shi-deh.",
+     "Right, I have a wife."
+    ],
+    [
+     "Y",
+     "သားသမီးရှိသလား။",
+     "Tha-tha-mi shi-tha-la.",
+     "Do you have children?"
+    ],
+    [
+     "K",
+     "နှစ်ယောက်ရှိပါတယ်။",
+     "Hna-yauq shi-ba-deh.",
+     "I have two."
+    ],
+    [
+     "S",
+     "ငါ့ကျတော့ လူပျိုပဲ။",
+     "Nga-ga-daw lu-pyo-béh.",
+     "As for me, still single."
+    ],
+    [
+     "Y",
+     "အားလုံးအခြေအနေမတူဘူးနော်။",
+     "A-loun a-jé-a-né ma-tu-bú-naw.",
+     "Everyone's situation is different, huh."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "အိမ်ထောင်",
+    "ein-daun",
+    "marriage / household"
+   ],
+   [
+    "ဇနီး",
+    "za-ni",
+    "wife"
+   ],
+   [
+    "ခင်ပွန်း",
+    "khin-poun",
+    "husband"
+   ],
+   [
+    "သားသမီး",
+    "tha-tha-mi",
+    "children (son/daughter, general)"
+   ],
+   [
+    "တစ်ယောက်",
+    "ta-yauq",
+    "one (person)"
+   ],
+   [
+    "အပျို",
+    "a-pyo",
+    "unmarried woman"
+   ],
+   [
+    "လူပျို",
+    "lu-pyo",
+    "unmarried man"
+   ],
+   [
+    "မိသားစု",
+    "mi-tha-su",
+    "family"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "shi-tha-la vs shi-bi-la",
+    "explain": "Shi-tha-la (Unit 4's neutral question) simply asks \"do you have?\" Shi-bi-la adds -bi (Unit 24's change-of-state marker) — \"are you [now, already]?\" — the natural form for asking about marriage or age, since both describe a settled state.",
+    "examples": [
+     [
+      "အိမ်ထောင်ရှိပြီလား။",
+      "Ein-daun shi-bi-la?",
+      "Are you (already) married?"
+     ]
+    ]
+   }
+  ],
+  "write": "A tall stroke with a loop at the base. Draw top to bottom first, then close the loop at the foot.",
+  "culture": "Like age, marital status is asked early and directly — again, out of genuine social interest and because it shapes how people relate to you, not because it's considered private the way it might be elsewhere."
+ },
+ {
+  "n": 27,
+  "letter": "ရ",
+  "name": "ya (ra)",
+  "part": "First Conversations",
+  "theme": "Parents and siblings",
+  "goal": "Talk about your parents and brothers and sisters, using the real kinship words.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "မောင်နှမရှိသလား။",
+     "Maun-hna-ma shi-tha-la.",
+     "Do you have siblings?"
+    ],
+    [
+     "K",
+     "သုံးယောက်ရှိပါတယ်။",
+     "Thoun-yauq shi-ba-deh.",
+     "I have three."
+    ],
+    [
+     "Y",
+     "အဖေအမေရှိသေးသလား။",
+     "A-p'é-a-mé shi-dhé-dha-la.",
+     "Are your parents still alive?"
+    ],
+    [
+     "K",
+     "ရှိသေးပါတယ်၊ ရွာမှာနေတယ်။",
+     "Shi-dhé-ba-deh, ywa-hma né-deh.",
+     "Still living, they live in the village."
+    ],
+    [
+     "S",
+     "ငါ့ကျတော့ အစ်ကိုတစ်ယောက်ပဲရှိတယ်။",
+     "Nga-ga-daw a-ko-ta-yauq-béh shi-deh.",
+     "I only have one older brother."
+    ],
+    [
+     "Y",
+     "ရန်ကုန်မှာနေလား။",
+     "Yan-goun-hma né-la.",
+     "Does he live in Yangon?"
+    ],
+    [
+     "S",
+     "မဟုတ်ပါဘူး၊ မန္တလေးမှာနေတယ်။",
+     "Ma-houq-pa-bú, Man-da-lé-hma né-deh.",
+     "No, he lives in Mandalay."
+    ],
+    [
+     "K",
+     "မိသားစုက အရေးကြီးဆုံးပဲနော်။",
+     "Mi-tha-su-ga a-yé-cí-zoun-béh-naw.",
+     "Family's the most important thing, huh."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "အဖေ",
+    "a-p'é",
+    "father"
+   ],
+   [
+    "အမေ",
+    "a-mé",
+    "mother"
+   ],
+   [
+    "အကို",
+    "a-ko",
+    "older brother"
+   ],
+   [
+    "အမ",
+    "a-ma",
+    "older sister"
+   ],
+   [
+    "ညီ",
+    "nyi",
+    "younger brother"
+   ],
+   [
+    "ညီမ",
+    "nyi-ma",
+    "younger sister"
+   ],
+   [
+    "မောင်",
+    "maun",
+    "younger brother (of a woman)"
+   ],
+   [
+    "ရှိသေးတယ်",
+    "shi-dhé-deh",
+    "to still be alive / still there"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-dhé — \"still\"",
+    "explain": "Attach -dhé (voiced from -thé) before -deh to mean \"still\": shi-dhé-deh, \"[they are] still there / still alive.\" A gentle, important suffix for asking about elderly relatives respectfully.",
+    "examples": [
+     [
+      "ရှိသေးတယ်။",
+      "Shi-dhé-deh.",
+      "Still living."
+     ],
+     [
+      "အလုပ်လုပ်နေသေးတယ်။",
+      "A-louq louq-né-dhé-deh.",
+      "Still working."
+     ]
+    ]
+   }
+  ],
+  "write": "ရ curls in the opposite direction from ယ — same fluid energy, mirrored.",
+  "culture": "Multi-generational households are common, and asking after someone's parents specifically is a real sign of respect and care, not small talk filler. Family is generally treated as the most stable, most important reference point in a conversation — you'll notice Ko Aung says as much outright in this unit."
+ },
+ {
+  "n": 28,
+  "letter": "လ",
+  "name": "la",
+  "part": "First Conversations",
+  "theme": "Feelings and small talk",
+  "goal": "Say how you're feeling and keep a casual conversation moving.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "S",
+     "ဒီခရီးစဉ် ပျော်နေလား။",
+     "Di k'a-yi-zin pyaw-né-la.",
+     "Are you enjoying this trip?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သိပ်ပျော်ပါတယ်။",
+     "Houq-keh, théiq pyaw-ba-deh.",
+     "Yes, I'm really enjoying it."
+    ],
+    [
+     "S",
+     "ပင်ပန်းနေသလား။",
+     "Pin-ban-né-dha-la.",
+     "Are you tired?"
+    ],
+    [
+     "Y",
+     "အနည်းငယ်ပင်ပန်းပါတယ်၊ ဒါပေမဲ့ ပျော်ပါတယ်။",
+     "A-né-ngeh pin-ban-ba-deh, da-bé-méh pyaw-ba-deh.",
+     "A little tired, but I'm happy."
+    ],
+    [
+     "K",
+     "စိတ်ညစ်စရာရှိလား။",
+     "Seiq-nyiq-za-ya shi-la.",
+     "Anything bothering you?"
+    ],
+    [
+     "Y",
+     "မရှိပါဘူး၊ အားလုံးကောင်းပါတယ်။",
+     "Ma-shi-ba-bú, a-loun-kaun-ba-deh.",
+     "No, everything's good."
+    ],
+    [
+     "S",
+     "ဒါဆို အေးဆေးနေပါ။",
+     "Da-hso é-zé-né-ba.",
+     "Then just relax."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်၊ နှစ်ယောက်လုံး။",
+     "Cé-zú-tin-ba-deh, hna-yauq-loun.",
+     "Thank you, both of you."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "ပျော်တယ်",
+    "pyaw-deh",
+    "to be happy"
+   ],
+   [
+    "ပင်ပန်းတယ်",
+    "pin-ban-deh",
+    "to be tired"
+   ],
+   [
+    "စိတ်ညစ်တယ်",
+    "seiq-nyiq-teh",
+    "to be upset"
+   ],
+   [
+    "စိတ်လှုပ်ရှားတယ်",
+    "seiq-hlouq-sha-deh",
+    "to be excited"
+   ],
+   [
+    "-နေတယ်",
+    "-né-deh",
+    "(continuous / right now)"
+   ],
+   [
+    "အနည်းငယ်",
+    "a-né-ngeh",
+    "a little"
+   ],
+   [
+    "ပူပန်တယ်",
+    "pu-ban-deh",
+    "to worry"
+   ],
+   [
+    "အေးဆေးတယ်",
+    "é-zé-deh",
+    "to be calm / relaxed"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-né-deh — happening right now",
+    "explain": "Insert -né- before -deh to mark an action or state as continuous, in progress right now: pin-ban-né-deh, \"[I] am tired [right now],\" versus the timeless pin-ban-deh, \"to be a tiring sort of thing.\"",
+    "examples": [
+     [
+      "ပင်ပန်းနေတယ်။",
+      "Pin-ban-né-deh.",
+      "I'm tired (right now)."
+     ],
+     [
+      "အလုပ်လုပ်နေတယ်။",
+      "A-louq louq-né-deh.",
+      "I'm working (right now)."
+     ]
+    ]
+   }
+  ],
+  "write": "A single wide loop, low and rounded — one of the more forgiving letters to write at speed.",
+  "culture": "Burmese conversation tends to keep an even, harmonious surface — genuine tiredness, stress, or worry is often understated (\"a little tired\" instead of \"exhausted\") rather than displayed openly. Reading past the understatement, and responding with the same gentle check-in Su does here, is more useful than taking the words at face value."
+ },
+ {
+  "n": 29,
+  "letter": "ဝ",
+  "name": "wa",
+  "part": "First Conversations",
+  "theme": "Making plans",
+  "goal": "Suggest meeting up and check whether someone's free.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "S",
+     "မနက်ဖြန်အားလား။",
+     "Ma-neq-p'yan a-la.",
+     "Are you free tomorrow?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ အားပါတယ်။",
+     "Houq-keh, a-ba-deh.",
+     "Yes, I'm free."
+    ],
+    [
+     "K",
+     "ဒါဆို ညနေမှာတွေ့ကြရအောင်။",
+     "Da-hso nya-né-hma twé-ca-ya-aun.",
+     "Then let's meet in the evening."
+    ],
+    [
+     "Y",
+     "ဘယ်မှာတွေ့မလဲ။",
+     "Beh-hma twé-ma-lé.",
+     "Where should we meet?"
+    ],
+    [
+     "S",
+     "ဒီကော်ဖီဆိုင်မှာပဲ တွေ့ကြရအောင်။",
+     "Di kaw-p'i-s'ain-hma-béh twé-ca-ya-aun.",
+     "Let's just meet at this café."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ရပါတယ်။",
+     "Houq-keh, ya-ba-deh.",
+     "Okay, that works."
+    ],
+    [
+     "K",
+     "ငါဖုန်းခေါ်ပါ့မယ်။",
+     "Nga p'oun k'aw-ba-meh.",
+     "I'll call."
+    ],
+    [
+     "S",
+     "ဟုတ်ကဲ့၊ မနက်ဖြန်တွေ့မယ်။",
+     "Houq-keh, ma-neq-p'yan twé-meh.",
+     "Alright, see you tomorrow."
+    ],
+    [
+     "Y",
+     "မနက်ဖြန်တွေ့မယ်။",
+     "Ma-neq-p'yan twé-meh.",
+     "See you tomorrow."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "မနက်ဖြန်",
+    "ma-neq-p'yan",
+    "tomorrow"
+   ],
+   [
+    "ဒီနေ့",
+    "di-né",
+    "today"
+   ],
+   [
+    "မနေ့က",
+    "ma-né-ga",
+    "yesterday"
+   ],
+   [
+    "အားတယ်",
+    "a-deh",
+    "to be free (available)"
+   ],
+   [
+    "ညနေ",
+    "nya-né",
+    "evening"
+   ],
+   [
+    "-ရအောင်",
+    "-ya-aun",
+    "let's..."
+   ],
+   [
+    "ဖုန်းခေါ်ပါ့မယ်",
+    "p'oun k'aw-ba-meh",
+    "I'll call you"
+   ],
+   [
+    "ချိန်းတယ်",
+    "c'ein-deh",
+    "to make an appointment"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "-ya-aun — a soft \"let's\"",
+    "explain": "Twé-ca-ya-aun (\"let's meet\") uses -ya-aun on the verb — a gentle suggestion, not a command. It invites agreement the way -naw invites agreement on a statement, but on an action instead.",
+    "examples": [
+     [
+      "သွားရအောင်။",
+      "Thwa-ya-aun.",
+      "Let's go."
+     ],
+     [
+      "စားရအောင်။",
+      "Sa-ya-aun.",
+      "Let's eat."
+     ]
+    ]
+   }
+  ],
+  "write": "A simple, near-perfect circle — one continuous stroke, no corners.",
+  "culture": "Two things worth knowing. On the phone, Burmese speakers commonly answer with Alo? (a loan from \"hello,\" used only for phone calls — never in person). And on invitations: a specific plan with a place and rough time, like this unit's, is a real invitation meant to happen. A vaguer \"come by sometime\" offered in passing is often closer to warmth than a commitment — the way \"we should get lunch sometime\" often works in English. If you're not sure which one you've been given, it's completely fine to ask directly, or suggest a specific time yourself and see what happens."
+ },
+ {
+  "n": 30,
+  "letter": "သ",
+  "name": "tha (sa)",
+  "part": "First Conversations",
+  "theme": "Weather and time",
+  "goal": "Talk about the weather and what time it is.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ဒီနေ့မိုးရွာမလား။",
+     "Di-né mo ywa-ma-la.",
+     "Will it rain today?"
+    ],
+    [
+     "K",
+     "ရွာလိမ့်ပါတယ်၊ ညနေဆို။",
+     "Ywa-lein-ba-deh, nya-né-hso.",
+     "Looks like it, come evening."
+    ],
+    [
+     "S",
+     "အခုဘယ်နှစ်နာရီရှိပြီလဲ။",
+     "A-k'u beh-hna-na-yi shi-bi-lé.",
+     "What time is it now?"
+    ],
+    [
+     "K",
+     "ငါးနာရီရှိပါပြီ။",
+     "Ngá-na-yi shi-ba-bi.",
+     "It's five o'clock."
+    ],
+    [
+     "Y",
+     "ဒါဆို မိုးမရွာခင် ပြန်ကြရအောင်။",
+     "Da-hso mo-ma-ywa-gin pyan-ca-ya-aun.",
+     "Then let's head back before it rains."
+    ],
+    [
+     "S",
+     "ဟုတ်ကဲ့၊ လိုက်ပို့ပေးမယ်။",
+     "Houq-keh, laiq-po-pé-meh.",
+     "Okay, I'll walk you back."
+    ],
+    [
+     "K",
+     "ခုနက ပူတာနဲ့ အခုအေးသွားပြီနော်။",
+     "K'u-na-ga pu-da-néh a-k'u é-thwa-bi-naw.",
+     "It was hot earlier, and now it's gotten cool, huh."
+    ],
+    [
+     "Y",
+     "ဟုတ်တယ်၊ ရာသီဥတု အမြန်ပြောင်းတာပဲ။",
+     "Houq-teh, ya-thi-u-du a-myan pyaun-da-béh.",
+     "True, the weather changes fast here."
+    ],
+    [
+     "S",
+     "မြန်မာမှာ ဒီလိုပါပဲ။",
+     "Myan-ma-hma di-lo ba-béh.",
+     "That's just how it is in Myanmar."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "မိုး",
+    "mo",
+    "rain"
+   ],
+   [
+    "နေ",
+    "né",
+    "sun"
+   ],
+   [
+    "လေ",
+    "lé",
+    "wind"
+   ],
+   [
+    "နာရီ",
+    "na-yi",
+    "o'clock"
+   ],
+   [
+    "ရာသီဥတု",
+    "ya-thi-u-du",
+    "weather / season"
+   ],
+   [
+    "ရွာတယ်",
+    "ywa-deh",
+    "to rain"
+   ],
+   [
+    "ပူအိုက်တယ်",
+    "pu-aiq-teh",
+    "to be muggy"
+   ],
+   [
+    "အေးစက်တယ်",
+    "é-seq-teh",
+    "to be freezing cold"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "Number + na-yi — telling time",
+    "explain": "Just like counting people (Unit 5) or money (Unit 6), time uses a classifier: number + na-yi means \"o'clock.\" Ngá-na-yi = \"five o'clock,\" following the exact same number-classifier pattern you've used all book.",
+    "examples": [
+     [
+      "ငါးနာရီရှိပြီ။",
+      "Ngá-na-yi shi-bi.",
+      "It's five o'clock already."
+     ]
+    ]
+   },
+   {
+    "title": "-lein — \"looks like / seems\"",
+    "explain": "Ywa-lein-ba-deh (\"looks like rain\") uses -lein to soften a prediction — you're guessing based on evidence, not stating a fact outright.",
+    "examples": [
+     [
+      "မိုးရွာလိမ့်မယ်။",
+      "Mo ywa-lein-meh.",
+      "It looks like it'll rain."
+     ]
+    ]
+   }
+  ],
+  "write": "A large loop with a tail curling under — a very common, distinctive shape you'll see everywhere in running text.",
+  "culture": "Plans and daily rhythms often bend around the weather and the lunar calendar more than the clock — many holidays and events are set by the Buddhist calendar rather than a fixed Gregorian date. Treat scheduled times as reasonably loose by default, in both directions."
+ },
+ {
+  "n": 31,
+  "letter": "ဟ",
+  "name": "ha",
+  "part": "First Conversations",
+  "theme": "Health and emergencies",
+  "goal": "Get help fast when something goes wrong.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "ခေါင်းကိုက်နေတယ်။",
+     "Gaun kaiq-né-deh.",
+     "I have a headache."
+    ],
+    [
+     "S",
+     "ဘာဖြစ်လဲ။ နေမကောင်းဘူးလား။",
+     "Ba-p'yiq-lé. Né-ma-kaun-bu-la.",
+     "What's wrong? Are you not feeling well?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ နည်းနည်းမကောင်းဘူး။",
+     "Houq-keh, né-né ma-kaun-bu.",
+     "Yeah, a little unwell."
+    ],
+    [
+     "K",
+     "ကျွန်တော် ဆေးရုံခေါ်သွားပေးမယ်။",
+     "Ca-na-w hsé-youn k'aw-thwa-pé-meh.",
+     "I'll take you to the hospital."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်။",
+     "Cé-zú-tin-ba-deh.",
+     "Thank you."
+    ],
+    [
+     "S",
+     "စိတ်မပူပါနဲ့၊ ကျွန်မတို့ ရှိတယ်။",
+     "Seiq-ma-pu-ba-néh, ca-ma-dó shi-deh.",
+     "Don't worry, we're here."
+    ],
+    [
+     "K",
+     "ကားပေါ်တက်ပါ။",
+     "Ka-paw teq-pa.",
+     "Get in the car."
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ ကျေးဇူးအများကြီး။",
+     "Houq-keh, cé-zú a-mya-cí.",
+     "Okay, thank you so much."
+    ]
+   ],
+   "narration": [
+    "A short scare — a headache turns out to be nothing serious, but it's the moment you realize how far Ko Aung and Su are willing to go for a friend they've known less than a week."
+   ]
+  },
+  "vocab": [
+   [
+    "ကူညီပါ",
+    "ku-nyi-ba",
+    "help!"
+   ],
+   [
+    "ဆေးရုံ",
+    "hsé-youn",
+    "hospital"
+   ],
+   [
+    "ရဲ",
+    "yeh",
+    "police"
+   ],
+   [
+    "ကိုက်တယ်",
+    "kaiq-teh",
+    "to ache"
+   ],
+   [
+    "ခေါင်း",
+    "gaun",
+    "head"
+   ],
+   [
+    "အန္တရာယ်",
+    "an-da-yeh",
+    "danger"
+   ],
+   [
+    "အရေးပေါ်",
+    "a-yé-paw",
+    "emergency"
+   ],
+   [
+    "နာတယ်",
+    "na-deh",
+    "to hurt / to be in pain"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "kaiq-teh — the go-to word for aches",
+    "explain": "Body part + kaiq-teh (\"to ache\") covers almost any everyday pain: gaun kaiq-teh (headache), wun kaiq-teh (stomachache). Simple, high-frequency, and exactly what you need in an emergency.",
+    "examples": [
+     [
+      "ခေါင်းကိုက်တယ်။",
+      "Gaun kaiq-teh.",
+      "I have a headache."
+     ],
+     [
+      "ဗိုက်ကိုက်တယ်။",
+      "Wun kaiq-teh.",
+      "I have a stomachache."
+     ]
+    ]
+   },
+   {
+    "title": "t'wa-pé-ba — \"please take (me)\"",
+    "explain": "T'wa-pé-ba (\"please take/lead me there\") combines with a place using -ko or -go: hsé-youn-go t'wa-pé-ba, or simply drop the marker in an urgent, clipped sentence, as above.",
+    "examples": [
+     [
+      "ဆေးရုံခေါ်သွားပေးပါ။",
+      "Hsé-youn k'aw-thwa-pé-ba.",
+      "Please take me to the hospital."
+     ]
+    ]
+   }
+  ],
+  "write": "A tall loop with a straight leg down the right — write the loop first, then drop the leg without lifting the pen.",
+  "culture": "What you're seeing in this unit — near-strangers dropping everything to help — isn't exaggerated for the story. A strong communal expectation to help someone in visible trouble, especially a guest, runs deep, and people will often go further than you'd think to ask for, or expect."
+ },
+ {
+  "n": 32,
+  "letter": "ဠ",
+  "name": "la (great)",
+  "part": "First Conversations",
+  "theme": "Apologies",
+  "goal": "Apologize sincerely and accept an apology graciously.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "အနှောင့်အယှက်ဖြစ်စေလို့ တောင်းပန်ပါတယ်။",
+     "A-hnaung-a-sheq p'yiq-sé-lo taun-ban-ba-deh.",
+     "I'm sorry for the trouble I caused."
+    ],
+    [
+     "S",
+     "ကိစ္စမရှိပါဘူး။",
+     "Kiq-sa ma-shi-ba-bú.",
+     "No problem at all."
+    ],
+    [
+     "K",
+     "သူငယ်ချင်းအချင်းချင်း ဒါလောက်တော့ လုပ်ရမှာပေါ့။",
+     "Thu-ngeh-jin a-chin-jin da-lauq-daw louq-ya-hma-paw.",
+     "That's what friends do."
+    ],
+    [
+     "Y",
+     "ကျွန်တော်တမင်မဟုတ်ပါဘူး။",
+     "Ca-na-w ta-min ma-houq-pa-bú.",
+     "It wasn't on purpose, of course."
+    ],
+    [
+     "S",
+     "သိပါတယ်၊ စိတ်မညစ်ပါနဲ့။",
+     "Thi-ba-deh, seiq-ma-nyiq-pa-néh.",
+     "We know, don't worry about it."
+    ],
+    [
+     "K",
+     "အခု ပိုကောင်းလားဗျ။",
+     "A-k'u po-kaun-la-bya.",
+     "Feeling better now?"
+    ],
+    [
+     "Y",
+     "ဟုတ်ကဲ့၊ သိပ်ကောင်းသွားပါပြီ။",
+     "Houq-keh, théiq kaun-thwa-ba-bi.",
+     "Yes, much better now."
+    ]
+   ]
+  },
+  "vocab": [
+   [
+    "တောင်းပန်တယ်",
+    "taun-ban-deh",
+    "to apologize"
+   ],
+   [
+    "အမှား",
+    "a-hma",
+    "mistake"
+   ],
+   [
+    "ခွင့်လွှတ်တယ်",
+    "k'win-hlouq-teh",
+    "to forgive"
+   ],
+   [
+    "ကိစ္စမရှိပါဘူး",
+    "kiq-sa ma-shi-ba-bú",
+    "no problem / it's alright"
+   ],
+   [
+    "နောက်တစ်ခါ",
+    "nauq-ta-k'a",
+    "next time"
+   ],
+   [
+    "တမင်မဟုတ်ပါဘူး",
+    "ta-min ma-houq-pa-bú",
+    "it wasn't on purpose"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "A rare letter, a common courtesy",
+    "explain": "ဠ appears in almost no modern words — it's kept mainly in Pali-derived spellings — but the phrase this unit teaches, taun-ban-ba-deh, is something you'll want ready in any language, any day.",
+    "examples": [
+     [
+      "တောင်းပန်ပါတယ်။",
+      "Taun-ban-ba-deh.",
+      "I'm sorry / I apologize."
+     ]
+    ]
+   }
+  ],
+  "write": "Shares လ's loop with a small extra curl added. Write လ, then add the flourish without breaking stroke.",
+  "culture": "Direct correction or confrontation in front of others is generally avoided in favor of a private, gentle word — public apologies or callouts can cause more embarrassment than the original problem. A quiet, sincere taun-ban-ba-deh, like Unit 32 teaches, usually closes the matter completely; there's rarely a need to revisit it."
+ },
+ {
+  "n": 33,
+  "letter": "အ",
+  "name": "a",
+  "part": "First Conversations",
+  "theme": "Saying goodbye — and review",
+  "goal": "Close a conversation warmly, and look back at everything Book 1 covered.",
+  "main": {
+   "type": "dialogue",
+   "lines": [
+    [
+     "Y",
+     "သွားတော့မယ်နော်။",
+     "Thwa-daw-meh-naw.",
+     "I'm heading off now."
+    ],
+    [
+     "S",
+     "ပြန်တွေ့ကြမယ်။",
+     "Pyan-twé-ca-meh.",
+     "See you again."
+    ],
+    [
+     "K",
+     "တစ်ခါလာရင် ငါ့ဆီဆက်ခေါ်ပါ။",
+     "Ta-k'a la-yin ngat-si seq-k'aw-pa.",
+     "Whenever you come again, call me up."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးအများကြီး၊ နှစ်ယောက်လုံး။",
+     "Cé-zú a-mya-cí, hna-yauq-loun.",
+     "Thank you so much, both of you."
+    ],
+    [
+     "S",
+     "မြန်မာစာ တော်တော်တိုးတက်သွားပြီနော်။",
+     "Myan-ma-sa taw-taw to-teq-thwa-bi-naw.",
+     "Your Burmese has really improved, hasn't it."
+    ],
+    [
+     "K",
+     "ပထမနေ့ကနေ အခုထိ ကြည့်ပါ။",
+     "Pa-t'a-ma-né-ga-né a-k'u-t'i cí-ba.",
+     "Look how far you've come since day one."
+    ],
+    [
+     "Y",
+     "ကျေးဇူးတင်ပါတယ်၊ နှစ်ယောက်လုံးကြောင့်ပါ။",
+     "Cé-zú-tin-ba-deh, hna-yauq-loun-caun-ba.",
+     "Thank you — it's thanks to both of you."
+    ],
+    [
+     "S",
+     "သွားလာပါဦးမယ်။",
+     "Thwa-la-ba-oun-meh.",
+     "Take care — I'll be on my way too."
+    ],
+    [
+     "K",
+     "ကျန်းမာပါစေ။",
+     "Kyan-ma-ba-zé.",
+     "Stay well."
+    ]
+   ],
+   "narration": [
+    "A month ago you landed in Yangon knowing four words. Today you're saying goodbye to two friends, in their language, without translating a single sentence in your head first."
+   ]
+  },
+  "vocab": [
+   [
+    "နှုတ်ဆက်တယ်",
+    "hnouq-seq-teh",
+    "to say goodbye"
+   ],
+   [
+    "ပြန်တွေ့မယ်",
+    "pyan-twé-meh",
+    "see you again"
+   ],
+   [
+    "ကျေးဇူးအများကြီး",
+    "cé-zú a-mya-cí",
+    "thank you so much"
+   ],
+   [
+    "နှစ်ဆယ့်သုံး",
+    "hna-zeh-thoun",
+    "twenty-three (bonus number!)"
+   ],
+   [
+    "ဒါဆိုရင်",
+    "da-hso-yin",
+    "in that case / so then"
+   ],
+   [
+    "တွေ့ရတာဝမ်းသာပါတယ်",
+    "twé-ya-da wun-tha-ba-deh",
+    "it was nice meeting you"
+   ]
+  ],
+  "grammar": [
+   {
+    "title": "The whole sentence engine, in one look back",
+    "explain": "You've now met every consonant, and every core sentence-ending you need: -deh (state it), -naw (invite agreement), -ba-/-pa- (say it politely), ma-...-bú (say no), -tha-la/-dha-la (ask plainly), -lé (ask with a question word), -meh (say what will happen), -bi (say it's already so), and -né- (say it's happening right now).",
+    "examples": [
+     [
+      "ပူတယ်။ ပူတယ်နော်။ ပူပါတယ်။ မပူပါဘူး။ ပူသလား။ ဘာလဲ။ ပူမယ်။ ပူပြီ။ ပူနေတယ်။",
+      "Pu-deh. Pu-deh-naw. Pu-ba-deh. Ma-pu-ba-bú. Pu-tha-la. Ba-lé. Pu-meh. Pu-bi. Pu-né-deh.",
+      "It's hot. Hot, isn't it? It's hot (polite). It's not hot. Is it hot? What is it? It'll be hot. It's (now) hot. It's (currently) hot."
+     ]
+    ]
+   }
+  ],
+  "write": "အ stands alone — the only letter that's also a full vowel carrier by itself. A closed loop with a short tail, closing the set you opened in Unit 1.",
+  "culture": "Burmese goodbyes tend to include a reciprocal blessing — kyan-ma-ba-zé (\"stay well/healthy\") rather than a bare \"bye\" — which is why Ko Aung closes with it here. And when a real friend says \"call me next time you're here,\" as he does, it's almost always meant sincerely, not as a farewell formality — which is the real answer to a question from early in the book: how do you tell a genuine invitation from a polite one? By the time you reach here, you'll likely already know the difference by ear."
+ }
+]
