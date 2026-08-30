@@ -9,6 +9,7 @@ $allowed = [
     'scripts-cheatsheet',
     'suffixes-cheatsheet',
     'stroke-order'
+    'mac-keyboard'
 ];
 
 $item = $_GET['item'] ?? '';
